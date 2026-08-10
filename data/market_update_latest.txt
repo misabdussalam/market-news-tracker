@@ -1,0 +1,51 @@
+MARKET UPDATE - 10 August 2026, 03:33 WIB
+
+USD/IDR: 17815 (-0.54%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 6446.73 (+0.58%)
+  vs Nikkei 225 (Jepang): +2.02% (selisih -1.44 poin %)
+  vs Hang Seng (Hong Kong): +0.64% (selisih -0.06 poin %)
+  vs Shanghai Composite (China): +0.24% (selisih +0.34 poin %)
+  vs Straits Times (Singapura): +1.05% (selisih -0.47 poin %)
+  Kesimpulan: IHSG unggul dari: Shanghai Composite (China); tertinggal dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura).
+
+TOP GAINERS (semua kategori):
+  + Nikkei 225 (Jepang) [Indeks Saham - Global]: +2.02%
+  + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +1.42%
+  + Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: +1.35%
+  + Nasdaq Composite (AS) [Indeks Saham - Global]: +1.30%
+  + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +1.10%
+
+TOP LOSERS (semua kategori):
+  - VIX - Index Volatilitas [Volatilitas]: -1.65%
+  - US 3M T-Bill Yield [Obligasi/Yield]: -0.59%
+  - USD/IDR [Forex]: -0.54%
+  - US 10Y Treasury Yield [Obligasi/Yield]: -0.21%
+  - USD/JPY [Forex]: -0.15%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY naik +0.09% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y turun -0.21% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX turun -1.65% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) naik +0.19% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +0.33% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -0.15% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas +1.01% & BTC +0.13% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG tertinggal -0.04 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
+
+Skor sentimen: +1
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Produsen Buru-buru Tarik Stok, Bapanas Lanjut Usut Beras Fortifikasi Bermasalah [Detik Finance]
+  * RI Butuh Investasi Rp 8.705 T Tahun Depan, dari Mana Sumbernya? [Detik Finance]
+  * Tinjau Jembatan Lumut Aceh, Wapres Gibran Dorong Penguatan Konektivitas [Detik Finance]
+  * Dolar AS Pagi Ini Melemah ke Rp 17.810 [Detik Finance]
+  * Harga Emas Antam Hari Ini Naik atau Turun? [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
