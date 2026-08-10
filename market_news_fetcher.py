@@ -532,7 +532,25 @@ def generate_market_update(df_market, df_news):
 
 
 # ----------------------------------------------------------------------
-# 7. KIRIM RINGKASAN KE TELEGRAM
+# 7. SIMPAN RINGKASAN SEBAGAI FILE TEKS (bisa langsung dibuka di GitHub)
+# ----------------------------------------------------------------------
+def save_market_update_to_file(text):
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M")
+
+    dated_filename = os.path.join(OUTPUT_DIR, f"market_update_{timestamp}.txt")
+    latest_filename = os.path.join(OUTPUT_DIR, "market_update_latest.txt")
+
+    for filename in (dated_filename, latest_filename):
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(text)
+
+    print(f"\nRingkasan tersimpan di: {dated_filename} dan {latest_filename}")
+    return dated_filename, latest_filename
+
+
+# ----------------------------------------------------------------------
+# 8. KIRIM RINGKASAN KE TELEGRAM (opsional - dilewati kalau secret kosong)
 # ----------------------------------------------------------------------
 def send_telegram_message(text):
     bot_token = os.environ.get("TELEGRAM_BOT_TOKEN")
@@ -540,8 +558,9 @@ def send_telegram_message(text):
 
     if not bot_token or not chat_id:
         print(
-            "\n[!] TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID belum diset "
-            "(env var / GitHub secret) - lewati pengiriman Telegram."
+            "\n[i] TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID belum diset - "
+            "pengiriman Telegram dilewati (opsional). Ringkasan tetap "
+            "tersimpan sebagai file di folder data/."
         )
         return
 
@@ -576,4 +595,5 @@ if __name__ == "__main__":
     print(update_text)
     print("=" * 50)
 
+    save_market_update_to_file(update_text)
     send_telegram_message(update_text)
