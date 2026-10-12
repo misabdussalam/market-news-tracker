@@ -1,0 +1,51 @@
+MARKET UPDATE - 12 October 2026, 17:39 WIB
+
+USD/IDR: 17894 (+0.49%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 6093.76 (+1.04%)
+  vs Nikkei 225 (Jepang): -0.02% (selisih +1.06 poin %)
+  vs Hang Seng (Hong Kong): +1.79% (selisih -0.75 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -0.20% (selisih +1.24 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Straits Times (Singapura); tertinggal dari: Hang Seng (Hong Kong), Shanghai Composite (China).
+
+TOP GAINERS (semua kategori):
+  + VIX - Index Volatilitas [Volatilitas]: +2.56%
+  + Minyak WTI [Komoditas]: +2.10%
+  + Minyak Brent [Komoditas]: +1.90%
+  + Hang Seng (Hong Kong) [Indeks Saham - Global]: +1.79%
+  + Copper Futures (Dr. Copper) [Komoditas]: +1.59%
+
+TOP LOSERS (semua kategori):
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY naik +0.35% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y turun -0.08% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +2.56% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) naik +0.21% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +1.59% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +0.36% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas -0.59% & BTC -1.57% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +1.15 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.12% -> Normal (landai positif)
+
+Skor sentimen: +3
+Kesimpulan: RISK-ON kuat: mayoritas sinyal makro condong ke aset berisiko (saham, kripto, komoditas industri). Aset aman (emas, obligasi, USD) relatif kurang diminati saat ini.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * RI Genjot Koperasi Pertanian Bareng Negara Tetangga [Detik Finance]
+  * Konsumsi Pertalite Melonjak hingga Antre Panjang di SPBU, Pertamina Buka Suara [Detik Finance]
+  * RI Bidik Peluang Investasi Lewat Penguatan Pasar Karbon di COP31 [Detik Finance]
+  * Harga Minyak Mentah Indonesia Naik, Tembus US$ 112,81/ Barel [Detik Finance]
+  * Harga Sapi Hidup Tinggi, RI Impor Kerbau Australia [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
