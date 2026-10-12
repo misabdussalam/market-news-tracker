@@ -1,10 +1,10 @@
-MARKET UPDATE - 09 October 2026, 15:09 WIB
+MARKET UPDATE - 12 October 2026, 00:46 WIB
 
-USD/IDR: 17879 (+0.01%)
+USD/IDR: 17879 (+0.40%)
 
 DETAIL IHSG vs KAWASAN ASIA:
   IHSG: 6093.76 (+1.04%)
-  vs Nikkei 225 (Jepang): -1.42% (selisih +2.46 poin %)
+  vs Nikkei 225 (Jepang): -0.02% (selisih +1.06 poin %)
   vs Hang Seng (Hong Kong): +1.79% (selisih -0.75 poin %)
   vs Shanghai Composite (China): +0.05% (selisih +0.99 poin %)
   vs Straits Times (Singapura): -0.20% (selisih +1.24 poin %)
@@ -14,38 +14,38 @@ TOP GAINERS (semua kategori):
   + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +5.33%
   + Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +3.10%
   + Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +2.94%
-  + Copper Futures (Dr. Copper) [Komoditas]: +2.71%
   + Hang Seng (Hong Kong) [Indeks Saham - Global]: +1.79%
+  + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +1.50%
 
 TOP LOSERS (semua kategori):
-  - VIX - Index Volatilitas [Volatilitas]: -2.79%
-  - Nikkei 225 (Jepang) [Indeks Saham - Global]: -1.42%
-  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: -0.39%
+  - VIX - Index Volatilitas [Volatilitas]: -3.70%
+  - Minyak WTI [Komoditas]: -1.38%
+  - Minyak Brent [Komoditas]: -1.28%
   - Straits Times (Singapura) [Indeks Saham - Global]: -0.20%
-  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: -0.01%
+  - US 30Y Treasury Yield [Obligasi/Yield]: -0.11%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.16% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y naik +0.82% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
-  - VIX turun -2.79% -> kecemasan pasar mereda (risk-on)
-  - HYG (obligasi high yield) turun -0.01% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) naik +2.71% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
-  - USD/JPY naik +0.20% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - Emas +1.24% & BTC +1.37% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG unggul +0.68 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - DXY turun -0.08% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y naik +0.25% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -3.70% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) naik +0.12% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +1.16% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +0.04% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas +0.33% & BTC +1.03% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +0.45 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.12% -> Normal (landai positif)
 
-Skor sentimen: +1
-Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+Skor sentimen: +5
+Kesimpulan: RISK-ON kuat: mayoritas sinyal makro condong ke aset berisiko (saham, kripto, komoditas industri). Aset aman (emas, obligasi, USD) relatif kurang diminati saat ini.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (30 headline masuk):
-  * Menteri PU Dorong Proyek KSPEAN Wanam Sejahterakan Warga Sekitar [Detik Finance]
-  * Belajar Kenali Risiko Bisnis dengan Data Science, Tak Harus Background Anak IT! [Detik Finance]
-  * Pasokan BBM ke Lombok Digenjot Jelang MotoGP Mandalika [Detik Finance]
-  * Uang Pensiun PNS hingga Bansos Bakal Ditransfer Langsung ke Rekening [Detik Finance]
-  * Korea Bidik Proyek Irigasi 750.000 Hektare Lahan Pertanian di Merauke [Detik Finance]
+  * Terkuak Modus Penipuan Tawarkan Urus Dapur MBG Kilat [Detik Finance]
+  * Waspada, El Nino Berpotensi Picu Kenaikan Harga Cabai dan Daging Ayam [Detik Finance]
+  * Rencana Pemerintah Tambal Defisit di Akhir Tahun [Detik Finance]
+  * Gelaran Pertamina Grand Prix of Indonesia 2026 Perkuat Ekonomi Lokal [Detik Finance]
+  * 63.789 Orang Jadi Korban PHK, Paling Banyak dari Provinsi Ini [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
