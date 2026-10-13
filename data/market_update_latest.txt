@@ -1,51 +1,51 @@
-MARKET UPDATE - 13 October 2026, 02:44 WIB
+MARKET UPDATE - 13 October 2026, 15:47 WIB
 
-USD/IDR: 17894 (+0.49%)
+USD/IDR: 17925 (+0.66%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5860.06 (-1.28%)
-  vs Nikkei 225 (Jepang): -2.52% (selisih +1.24 poin %)
-  vs Hang Seng (Hong Kong): -1.11% (selisih -0.17 poin %)
-  vs Shanghai Composite (China): -1.07% (selisih -0.21 poin %)
-  vs Straits Times (Singapura): +0.01% (selisih -1.29 poin %)
-  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang); tertinggal dari: Hang Seng (Hong Kong), Shanghai Composite (China), Straits Times (Singapura).
+  IHSG: 5925.98 (-0.17%)
+  vs Nikkei 225 (Jepang): -0.02% (selisih -0.15 poin %)
+  vs Hang Seng (Hong Kong): +0.30% (selisih -0.47 poin %)
+  vs Shanghai Composite (China): +0.10% (selisih -0.27 poin %)
+  vs Straits Times (Singapura): +0.28% (selisih -0.45 poin %)
+  Kesimpulan: IHSG tertinggal dari SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif rendah.
 
 TOP GAINERS (semua kategori):
-  + VIX - Index Volatilitas [Volatilitas]: +2.49%
-  + FTSE 100 (Inggris) [Indeks Saham - Global]: +0.99%
-  + Copper Futures (Dr. Copper) [Komoditas]: +0.99%
-  + Minyak WTI [Komoditas]: +0.82%
-  + DAX (Jerman) [Indeks Saham - Global]: +0.76%
+  + Bitcoin/USD [Kripto]: +1.73%
+  + VIX - Index Volatilitas [Volatilitas]: +1.31%
+  + USD/IDR [Forex]: +0.66%
+  + Copper Futures (Dr. Copper) [Komoditas]: +0.52%
+  + Minyak WTI [Komoditas]: +0.49%
 
 TOP LOSERS (semua kategori):
-  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -13.70%
-  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -13.53%
-  - Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: -12.99%
-  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -12.84%
-  - Chandra Asri Petrochemical (TPIA) [Saham - Prajogo Pangestu]: -12.24%
+  - Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: -13.64%
+  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -12.00%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -11.28%
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -10.00%
+  - Chandra Daya Investasi (CDIA) [Saham - Prajogo Pangestu]: -9.91%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.20% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y turun -0.08% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
-  - VIX naik +2.49% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) naik +0.08% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
-  - Tembaga (Dr. Copper) naik +0.99% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
-  - USD/JPY naik +0.12% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - Emas -0.59% & BTC -1.08% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG tertinggal -1.22 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+  - DXY turun -0.29% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -0.44% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +1.31% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.38% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +0.52% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +0.21% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - BTC naik (+1.73%) sementara emas turun (-0.14%) -> uang mengejar aset berisiko (risk-on)
+  - IHSG unggul +0.08 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.12% -> Normal (landai positif)
 
-Skor sentimen: +1
-Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+Skor sentimen: +4
+Kesimpulan: RISK-ON kuat: mayoritas sinyal makro condong ke aset berisiko (saham, kripto, komoditas industri). Aset aman (emas, obligasi, USD) relatif kurang diminati saat ini.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (30 headline masuk):
-  * Dolar AS Menguat ke Level Rp 17.948 Pagi Ini [Detik Finance]
-  * IHSG Melemah, Makin Jauh dari Level 6.000 [Detik Finance]
-  * ASII Borong Saham AUTO, PGEO Rampungkan 5 Sumur Panas Bumi [Detik Finance]
-  * Bank Dunia &amp; IMF Wanti-wanti Dampak AI ke Lapangan Kerja [Detik Finance]
-  * Ojol Bakal Masuk Kategori Transportasi, Ini 3 Catatan Menhub [Detik Finance]
+  * BTPN Syariah (BTPS) Bakal Buyback Saham hingga Rp 1 Triliun [Detik Finance]
+  * Zero ODOL Bisa Gagal Jika Cuma Tertibkan Truk, Ini Saran buat Pemerintah [Detik Finance]
+  * Panen Melimpah, Harga Garam Petani Takalar Turun Tajam [Detik Finance]
+  * Mau Jago Hitung Pajak, Tapi Bingung Mulai dari Mana? Coba Kursus di Sini! [Detik Finance]
+  * Beli Token &amp; Bayar Tagihan Listrik Bisa di Kopdes Merah Putih [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
