@@ -1,0 +1,51 @@
+MARKET UPDATE - 13 October 2026, 02:44 WIB
+
+USD/IDR: 17894 (+0.49%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5860.06 (-1.28%)
+  vs Nikkei 225 (Jepang): -2.52% (selisih +1.24 poin %)
+  vs Hang Seng (Hong Kong): -1.11% (selisih -0.17 poin %)
+  vs Shanghai Composite (China): -1.07% (selisih -0.21 poin %)
+  vs Straits Times (Singapura): +0.01% (selisih -1.29 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang); tertinggal dari: Hang Seng (Hong Kong), Shanghai Composite (China), Straits Times (Singapura).
+
+TOP GAINERS (semua kategori):
+  + VIX - Index Volatilitas [Volatilitas]: +2.49%
+  + FTSE 100 (Inggris) [Indeks Saham - Global]: +0.99%
+  + Copper Futures (Dr. Copper) [Komoditas]: +0.99%
+  + Minyak WTI [Komoditas]: +0.82%
+  + DAX (Jerman) [Indeks Saham - Global]: +0.76%
+
+TOP LOSERS (semua kategori):
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -13.70%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -13.53%
+  - Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: -12.99%
+  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -12.84%
+  - Chandra Asri Petrochemical (TPIA) [Saham - Prajogo Pangestu]: -12.24%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY naik +0.20% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y turun -0.08% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +2.49% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) naik +0.08% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +0.99% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +0.12% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas -0.59% & BTC -1.08% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG tertinggal -1.22 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.12% -> Normal (landai positif)
+
+Skor sentimen: +1
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Dolar AS Menguat ke Level Rp 17.948 Pagi Ini [Detik Finance]
+  * IHSG Melemah, Makin Jauh dari Level 6.000 [Detik Finance]
+  * ASII Borong Saham AUTO, PGEO Rampungkan 5 Sumur Panas Bumi [Detik Finance]
+  * Bank Dunia &amp; IMF Wanti-wanti Dampak AI ke Lapangan Kerja [Detik Finance]
+  * Ojol Bakal Masuk Kategori Transportasi, Ini 3 Catatan Menhub [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
