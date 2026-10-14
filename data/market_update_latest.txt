@@ -1,51 +1,51 @@
-MARKET UPDATE - 13 October 2026, 15:47 WIB
+MARKET UPDATE - 14 October 2026, 00:40 WIB
 
-USD/IDR: 17925 (+0.66%)
+USD/IDR: 17913 (+0.02%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5925.98 (-0.17%)
-  vs Nikkei 225 (Jepang): -0.02% (selisih -0.15 poin %)
-  vs Hang Seng (Hong Kong): +0.30% (selisih -0.47 poin %)
-  vs Shanghai Composite (China): +0.10% (selisih -0.27 poin %)
-  vs Straits Times (Singapura): +0.28% (selisih -0.45 poin %)
+  IHSG: 5936.15 (-2.59%)
+  vs Nikkei 225 (Jepang): -1.58% (selisih -1.01 poin %)
+  vs Hang Seng (Hong Kong): +0.25% (selisih -2.84 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): +0.25% (selisih -2.84 poin %)
   Kesimpulan: IHSG tertinggal dari SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif rendah.
 
 TOP GAINERS (semua kategori):
-  + Bitcoin/USD [Kripto]: +1.73%
-  + VIX - Index Volatilitas [Volatilitas]: +1.31%
-  + USD/IDR [Forex]: +0.66%
-  + Copper Futures (Dr. Copper) [Komoditas]: +0.52%
-  + Minyak WTI [Komoditas]: +0.49%
+  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +4.01%
+  + Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +3.63%
+  + Petrosea (PTRO) [Saham - Prajogo Pangestu]: +3.47%
+  + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +3.42%
+  + Bitcoin/USD [Kripto]: +2.27%
 
 TOP LOSERS (semua kategori):
-  - Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: -13.64%
-  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -12.00%
-  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -11.28%
-  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -10.00%
-  - Chandra Daya Investasi (CDIA) [Saham - Prajogo Pangestu]: -9.91%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -9.22%
+  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
+  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY turun -0.29% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - DXY turun -0.40% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
   - Yield US10Y turun -0.44% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
-  - VIX naik +1.31% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun -0.38% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) naik +0.52% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
-  - USD/JPY naik +0.21% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - BTC naik (+1.73%) sementara emas turun (-0.14%) -> uang mengejar aset berisiko (risk-on)
-  - IHSG unggul +0.08 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - VIX naik +0.39% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +0.31% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -0.09% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - BTC naik (+2.27%) sementara emas turun (-0.16%) -> uang mengejar aset berisiko (risk-on)
+  - IHSG tertinggal -2.57 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.12% -> Normal (landai positif)
 
-Skor sentimen: +4
-Kesimpulan: RISK-ON kuat: mayoritas sinyal makro condong ke aset berisiko (saham, kripto, komoditas industri). Aset aman (emas, obligasi, USD) relatif kurang diminati saat ini.
+Skor sentimen: +0
+Kesimpulan: CAMPURAN/tidak searah: sinyal-sinyal di atas berimbang. Pasar kemungkinan dalam fase konsolidasi/wait-and-see.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (30 headline masuk):
-  * BTPN Syariah (BTPS) Bakal Buyback Saham hingga Rp 1 Triliun [Detik Finance]
-  * Zero ODOL Bisa Gagal Jika Cuma Tertibkan Truk, Ini Saran buat Pemerintah [Detik Finance]
-  * Panen Melimpah, Harga Garam Petani Takalar Turun Tajam [Detik Finance]
-  * Mau Jago Hitung Pajak, Tapi Bingung Mulai dari Mana? Coba Kursus di Sini! [Detik Finance]
-  * Beli Token &amp; Bayar Tagihan Listrik Bisa di Kopdes Merah Putih [Detik Finance]
+  * Bukan UMP Naik, Bos Buruh Ungkap Biang Kerok Pabrik Tutup [Detik Finance]
+  * Bank Dunia &amp; IMF Wanti-wanti Dampak Buruk AI [Detik Finance]
+  * Heboh Rumor Emiten Bakrie Caplok Tambang Kideco Rp 17,9 Triliun [Detik Finance]
+  * Perpres Ojol Terbit, Pengemudi Masih Keluhkan Potongan dan Tarif Jarak [Detik Finance]
+  * Transformasi PERURI, Jaga Warisan &amp; Bangun Masa Depan Digital [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
