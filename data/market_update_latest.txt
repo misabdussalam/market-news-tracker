@@ -1,51 +1,51 @@
-MARKET UPDATE - 14 October 2026, 00:40 WIB
+MARKET UPDATE - 14 October 2026, 13:31 WIB
 
-USD/IDR: 17913 (+0.02%)
+USD/IDR: 17893 (-0.11%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5936.15 (-2.59%)
-  vs Nikkei 225 (Jepang): -1.58% (selisih -1.01 poin %)
-  vs Hang Seng (Hong Kong): +0.25% (selisih -2.84 poin %)
-  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
-  vs Straits Times (Singapura): +0.25% (selisih -2.84 poin %)
-  Kesimpulan: IHSG tertinggal dari SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif rendah.
+  IHSG: 5943.02 (+0.29%)
+  vs Nikkei 225 (Jepang): -0.05% (selisih +0.34 poin %)
+  vs Hang Seng (Hong Kong): -0.13% (selisih +0.42 poin %)
+  vs Shanghai Composite (China): -0.89% (selisih +1.18 poin %)
+  vs Straits Times (Singapura): -0.13% (selisih +0.42 poin %)
+  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
 
 TOP GAINERS (semua kategori):
-  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +4.01%
-  + Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +3.63%
-  + Petrosea (PTRO) [Saham - Prajogo Pangestu]: +3.47%
-  + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +3.42%
-  + Bitcoin/USD [Kripto]: +2.27%
+  + Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: +9.16%
+  + VIX - Index Volatilitas [Volatilitas]: +3.01%
+  + US 3M T-Bill Yield [Obligasi/Yield]: +2.12%
+  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +2.11%
+  + US 10Y Treasury Yield [Obligasi/Yield]: +1.86%
 
 TOP LOSERS (semua kategori):
-  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -9.22%
-  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
-  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
-  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
-  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -4.53%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: -2.43%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: -2.01%
+  - Emas (XAU/USD) [Komoditas]: -1.73%
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: -1.65%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY turun -0.40% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
-  - Yield US10Y turun -0.44% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
-  - VIX naik +0.39% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) naik +0.31% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
-  - USD/JPY turun -0.09% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
-  - BTC naik (+2.27%) sementara emas turun (-0.16%) -> uang mengejar aset berisiko (risk-on)
-  - IHSG tertinggal -2.57 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+  - DXY naik +0.68% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y naik +1.86% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX naik +3.01% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.36% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +0.18% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +0.23% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas -1.73% & BTC -0.36% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +0.72 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.12% -> Normal (landai positif)
 
-Skor sentimen: +0
-Kesimpulan: CAMPURAN/tidak searah: sinyal-sinyal di atas berimbang. Pasar kemungkinan dalam fase konsolidasi/wait-and-see.
+Skor sentimen: -1
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (30 headline masuk):
-  * Bukan UMP Naik, Bos Buruh Ungkap Biang Kerok Pabrik Tutup [Detik Finance]
-  * Bank Dunia &amp; IMF Wanti-wanti Dampak Buruk AI [Detik Finance]
-  * Heboh Rumor Emiten Bakrie Caplok Tambang Kideco Rp 17,9 Triliun [Detik Finance]
-  * Perpres Ojol Terbit, Pengemudi Masih Keluhkan Potongan dan Tarif Jarak [Detik Finance]
-  * Transformasi PERURI, Jaga Warisan &amp; Bangun Masa Depan Digital [Detik Finance]
+  * Danantara Indonesia Tegaskan Komitmen Peningkatan Layanan PLN [Detik Finance]
+  * Darmawan Prasodjo Dicopot dari Dirut PLN, Ini Penggantinya [Detik Finance]
+  * BBM di Bali Langka Picu Antrean Panjang, Bahlil: Dirut Pertamina Sudah di Sana [Detik Finance]
+  * Mendag Pede Harga Pangan Turun di Akhir Tahun, Ini Alasannya [Detik Finance]
+  * Bahlil Ungkap Biang Kerok Listrik Padam di Batam: Petir hingga Kelelawar [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
