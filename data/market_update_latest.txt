@@ -1,51 +1,51 @@
-MARKET UPDATE - 15 October 2026, 00:09 WIB
+MARKET UPDATE - 15 October 2026, 13:14 WIB
 
-USD/IDR: 17866 (-0.26%)
+USD/IDR: 17943 (+0.43%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5925.98 (-0.17%)
-  vs Nikkei 225 (Jepang): -1.82% (selisih +1.65 poin %)
-  vs Hang Seng (Hong Kong): +0.30% (selisih -0.47 poin %)
-  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
-  vs Straits Times (Singapura): +0.28% (selisih -0.45 poin %)
-  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang); tertinggal dari: Hang Seng (Hong Kong), Shanghai Composite (China), Straits Times (Singapura).
+  IHSG: 5863.78 (-1.33%)
+  vs Nikkei 225 (Jepang): -4.90% (selisih +3.57 poin %)
+  vs Hang Seng (Hong Kong): -1.03% (selisih -0.30 poin %)
+  vs Shanghai Composite (China): -1.59% (selisih +0.26 poin %)
+  vs Straits Times (Singapura): -0.37% (selisih -0.96 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Shanghai Composite (China); tertinggal dari: Hang Seng (Hong Kong), Straits Times (Singapura).
 
 TOP GAINERS (semua kategori):
-  + VIX - Index Volatilitas [Volatilitas]: +10.48%
-  + Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: +9.16%
-  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +2.11%
-  + US 3M T-Bill Yield [Obligasi/Yield]: +0.69%
-  + Minyak WTI [Komoditas]: +0.67%
+  + VIX - Index Volatilitas [Volatilitas]: +3.56%
+  + Emas (XAU/USD) [Komoditas]: +1.40%
+  + FTSE 100 (Inggris) [Indeks Saham - Global]: +1.00%
+  + TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +0.66%
+  + USD/IDR [Forex]: +0.43%
 
 TOP LOSERS (semua kategori):
-  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -4.53%
-  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
-  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
-  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
-  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -9.62%
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -6.03%
+  - Chandra Asri Petrochemical (TPIA) [Saham - Prajogo Pangestu]: -5.67%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: -5.64%
+  - Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: -5.26%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.03% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y turun -0.52% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
-  - VIX naik +10.48% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) turun -1.02% -> ekspektasi pertumbuhan global melemah (risk-off)
-  - USD/JPY turun -0.25% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
-  - Emas -1.06% & BTC -1.74% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG unggul +0.94 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - DXY turun -0.42% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -2.62% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +3.56% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.36% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -1.04% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.30% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas naik (+1.40%) sementara BTC turun (-1.40%) -> pola klasik 'flight to safety' (risk-off)
+  - IHSG tertinggal -0.22 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
 
-  [Konteks siklus] Yield Curve US10Y-3M: +0.11% -> Normal (landai positif)
+  [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
 
-Skor sentimen: -3
+Skor sentimen: -4
 Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US Treasury, emas). Aset berisiko (saham, kripto) cenderung tertekan.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (30 headline masuk):
-  * Pengganti LPG 3 Kg Mulai Dijual 2027, Tabungnya dari China [Detik Finance]
-  * Bos Agrinas soal Ratusan Manajer Kopdes Mundur: Tidak Ada yang Rugi! [Detik Finance]
-  * Dirut PLN Diganti di Tengah Masalah Listrik Batam Padam [Detik Finance]
-  * IKN Dapat Investasi Proyek Rusun hingga Restoran, Ini Rinciannya [Detik Finance]
-  * Kontraktor Swasta Diprioritaskan Garap Proyek Rp 50-100 Miliar [Detik Finance]
+  * 10.070 Kopdes Mulai Operasi Hari Ini [Detik Finance]
+  * DJP Siapkan Insentif Pajak buat BUMN, Ini Bocorannya [Detik Finance]
+  * KRL Kerap Gangguan, INKA Minta Maaf [Detik Finance]
+  * Penerimaan Pajak RI Segitu-gitu Aja, DJP Buka Suara [Detik Finance]
+  * MR.D.I.Y., Kemenperin &amp; CIMB Niaga Dorong IKM Perkuat Bisnis Berkelanjutan [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
