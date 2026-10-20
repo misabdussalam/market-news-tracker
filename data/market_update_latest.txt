@@ -1,51 +1,51 @@
-MARKET UPDATE - 19 October 2026, 15:25 WIB
+MARKET UPDATE - 20 October 2026, 00:45 WIB
 
-USD/IDR: 17943 (-0.43%)
+USD/IDR: 18056 (+0.20%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 4996.61 (-3.64%)
-  vs Nikkei 225 (Jepang): +1.39% (selisih -5.03 poin %)
-  vs Hang Seng (Hong Kong): +0.52% (selisih -4.16 poin %)
-  vs Shanghai Composite (China): +0.39% (selisih -4.03 poin %)
-  vs Straits Times (Singapura): -0.07% (selisih -3.57 poin %)
+  IHSG: 5185.10 (-11.57%)
+  vs Nikkei 225 (Jepang): -1.52% (selisih -10.05 poin %)
+  vs Hang Seng (Hong Kong): +0.52% (selisih -12.09 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): +0.22% (selisih -11.79 poin %)
   Kesimpulan: IHSG tertinggal dari SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif rendah.
 
 TOP GAINERS (semua kategori):
-  + Nasdaq Composite (AS) [Indeks Saham - Global]: +1.67%
-  + Nikkei 225 (Jepang) [Indeks Saham - Global]: +1.39%
-  + EEM - Emerging Markets ETF [Indeks Saham - Global]: +1.30%
-  + S&P 500 (AS) [Indeks Saham - Global]: +0.84%
-  + US 10Y Treasury Yield [Obligasi/Yield]: +0.57%
+  + Nasdaq Composite (AS) [Indeks Saham - Global]: +1.11%
+  + DAX (Jerman) [Indeks Saham - Global]: +0.95%
+  + US 10Y Treasury Yield [Obligasi/Yield]: +0.75%
+  + US 30Y Treasury Yield [Obligasi/Yield]: +0.66%
+  + Hang Seng (Hong Kong) [Indeks Saham - Global]: +0.52%
 
 TOP LOSERS (semua kategori):
-  - VIX - Index Volatilitas [Volatilitas]: -11.31%
-  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -7.00%
-  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: -6.94%
-  - Chandra Daya Investasi (CDIA) [Saham - Prajogo Pangestu]: -6.93%
-  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -6.89%
+  - IHSG (Composite) [Indeks Saham - Indonesia]: -11.57%
+  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
+  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.10% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y naik +0.57% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
-  - VIX turun -11.31% -> kecemasan pasar mereda (risk-on)
-  - HYG (obligasi high yield) naik +0.06% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
-  - Tembaga (Dr. Copper) naik +0.25% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
-  - USD/JPY naik +0.17% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - BTC naik (+0.43%) sementara emas turun (-0.37%) -> uang mengejar aset berisiko (risk-on)
-  - IHSG tertinggal -4.48 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+  - DXY naik +0.08% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y naik +0.75% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -7.75% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +0.50% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +0.47% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas -0.72% & BTC -0.58% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG tertinggal -11.98 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.11% -> Normal (landai positif)
 
-Skor sentimen: +2
-Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+Skor sentimen: -1
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (30 headline masuk):
-  * IHSG Melorot ke Bawah 5.000, Danantara Mau Borong Saham BUMN [Detik Finance]
-  * Penyebab Listrik Batam Padam Diusut, Bos PLN Pastikan Bukan Sabotase [Detik Finance]
-  * Dua Tahun Prabowo: Investasi Rp 3.923 Triliun, 5,4 Juta Tenaga Kerja Terserap [Detik Finance]
-  * 5 Besar Investor Asing di Indonesia, Singapura Masih Rajanya [Detik Finance]
-  * Biang Kerok Masalah BBM di Bali: Kapal dari Jawa Terlambat Masuk [Detik Finance]
+  * Prancis Membara Dilanda Kerusuhan, 1.500 Toko Dijarah [Detik Finance]
+  * Lapangan Multiguna Bekasi Ditata Ulang untuk Sambut Ajang Olahraga Jabar [Detik Finance]
+  * Bos BEI Ungkap Alasan RI Layak Bertahan di Emerging Market [Detik Finance]
+  * Dugaan Permainan Harga Ayam dan Telur Mulai Terendus [Detik Finance]
+  * Warga Karet Kuningan Olah Sampah Plastik Jadi BBM Alternatif [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)

@@ -1,0 +1,51 @@
+MARKET UPDATE - 20 October 2026, 00:45 WIB
+
+USD/IDR: 18056 (+0.20%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5185.10 (-11.57%)
+  vs Nikkei 225 (Jepang): -1.52% (selisih -10.05 poin %)
+  vs Hang Seng (Hong Kong): +0.52% (selisih -12.09 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): +0.22% (selisih -11.79 poin %)
+  Kesimpulan: IHSG tertinggal dari SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif rendah.
+
+TOP GAINERS (semua kategori):
+  + Nasdaq Composite (AS) [Indeks Saham - Global]: +1.11%
+  + DAX (Jerman) [Indeks Saham - Global]: +0.95%
+  + US 10Y Treasury Yield [Obligasi/Yield]: +0.75%
+  + US 30Y Treasury Yield [Obligasi/Yield]: +0.66%
+  + Hang Seng (Hong Kong) [Indeks Saham - Global]: +0.52%
+
+TOP LOSERS (semua kategori):
+  - IHSG (Composite) [Indeks Saham - Indonesia]: -11.57%
+  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
+  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY naik +0.08% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y naik +0.75% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -7.75% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +0.50% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +0.47% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas -0.72% & BTC -0.58% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG tertinggal -11.98 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.11% -> Normal (landai positif)
+
+Skor sentimen: -1
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Prancis Membara Dilanda Kerusuhan, 1.500 Toko Dijarah [Detik Finance]
+  * Lapangan Multiguna Bekasi Ditata Ulang untuk Sambut Ajang Olahraga Jabar [Detik Finance]
+  * Bos BEI Ungkap Alasan RI Layak Bertahan di Emerging Market [Detik Finance]
+  * Dugaan Permainan Harga Ayam dan Telur Mulai Terendus [Detik Finance]
+  * Warga Karet Kuningan Olah Sampah Plastik Jadi BBM Alternatif [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
