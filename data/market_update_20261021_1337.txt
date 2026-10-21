@@ -1,0 +1,51 @@
+MARKET UPDATE - 21 October 2026, 13:37 WIB
+
+USD/IDR: 17943 (-0.54%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5328.36 (+0.94%)
+  vs Nikkei 225 (Jepang): +0.85% (selisih +0.09 poin %)
+  vs Hang Seng (Hong Kong): -0.90% (selisih +1.84 poin %)
+  vs Shanghai Composite (China): -0.60% (selisih +1.54 poin %)
+  vs Straits Times (Singapura): +0.63% (selisih +0.31 poin %)
+  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
+
+TOP GAINERS (semua kategori):
+  + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +8.00%
+  + Chandra Asri Petrochemical (TPIA) [Saham - Prajogo Pangestu]: +5.10%
+  + Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: +3.48%
+  + DAX (Jerman) [Indeks Saham - Global]: +1.41%
+  + IHSG (Composite) [Indeks Saham - Indonesia]: +0.94%
+
+TOP LOSERS (semua kategori):
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: -6.99%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -6.94%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: -6.74%
+  - Minyak WTI [Komoditas]: -4.43%
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: -2.89%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.04% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -0.45% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX turun -2.02% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) naik +0.17% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) turun -0.21% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.34% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas +0.32% & BTC +0.37% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +0.75 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
+
+Skor sentimen: +3
+Kesimpulan: RISK-ON kuat: mayoritas sinyal makro condong ke aset berisiko (saham, kripto, komoditas industri). Aset aman (emas, obligasi, USD) relatif kurang diminati saat ini.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Bocoran Penetapan &amp; Formula UMP 2027 [Detik Finance]
+  * Soal Gaji PNS Lewat Kopdes Merah Putih, Menkop Ajak Menkeu Duduk Bareng [Detik Finance]
+  * Respons Bos OJK Usai Prabowo Pidato RI Tidak Takut MSCI [Detik Finance]
+  * Menperin Usul Mobil Hybrid Bebas Ganjil Genap &amp; Dapat Parkir Khusus [Detik Finance]
+  * China Geber Energi Hijau, Bangun PLTS di Karawang hingga Afrika [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
