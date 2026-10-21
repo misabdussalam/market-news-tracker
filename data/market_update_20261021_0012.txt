@@ -1,0 +1,51 @@
+MARKET UPDATE - 21 October 2026, 00:12 WIB
+
+USD/IDR: 18041 (-0.08%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 4996.61 (-3.64%)
+  vs Nikkei 225 (Jepang): -0.62% (selisih -3.02 poin %)
+  vs Hang Seng (Hong Kong): +0.52% (selisih -4.16 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -0.07% (selisih -3.57 poin %)
+  Kesimpulan: IHSG tertinggal dari SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif rendah.
+
+TOP GAINERS (semua kategori):
+  + Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: +20.08%
+  + Chandra Asri Petrochemical (TPIA) [Saham - Prajogo Pangestu]: +13.33%
+  + Chandra Daya Investasi (CDIA) [Saham - Prajogo Pangestu]: +13.30%
+  + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +8.99%
+  + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +6.14%
+
+TOP LOSERS (semua kategori):
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -6.99%
+  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
+  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.19% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -0.37% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX turun -6.13% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +1.09% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -0.12% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - BTC naik (+1.30%) sementara emas turun (-0.69%) -> uang mengejar aset berisiko (risk-on)
+  - IHSG tertinggal -3.92 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
+
+Skor sentimen: +2
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Raksasa Keuangan Dunia Prediksi Ratusan Triliun Kabur Jika Bursa RI Turun Kasta [Detik Finance]
+  * Kejar Pertumbuhan, Pemerintah Guyur Rp 1.300 T Genjot Belanja Akhir Tahun [Detik Finance]
+  * 180 Insulator di Jalur KRL Diganti, 513,926 Km Jaringan Listrik Atas Dirawat [Detik Finance]
+  * Nilai Ekspor Hilirisasi Mineral Diprediksi Tembus Rp 898 Triliun [Detik Finance]
+  * Saran buat Pemerintah Usai MSCI Buka Opsi Bursa RI Turun Kasta [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)

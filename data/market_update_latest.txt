@@ -1,14 +1,14 @@
-MARKET UPDATE - 20 October 2026, 13:28 WIB
+MARKET UPDATE - 21 October 2026, 00:12 WIB
 
-USD/IDR: 17943 (-0.63%)
+USD/IDR: 18041 (-0.08%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5278.89 (+5.65%)
-  vs Nikkei 225 (Jepang): -1.30% (selisih +6.95 poin %)
-  vs Hang Seng (Hong Kong): -1.32% (selisih +6.97 poin %)
-  vs Shanghai Composite (China): +0.12% (selisih +5.53 poin %)
-  vs Straits Times (Singapura): -0.15% (selisih +5.80 poin %)
-  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
+  IHSG: 4996.61 (-3.64%)
+  vs Nikkei 225 (Jepang): -0.62% (selisih -3.02 poin %)
+  vs Hang Seng (Hong Kong): +0.52% (selisih -4.16 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -0.07% (selisih -3.57 poin %)
+  Kesimpulan: IHSG tertinggal dari SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif rendah.
 
 TOP GAINERS (semua kategori):
   + Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: +20.08%
@@ -19,33 +19,33 @@ TOP GAINERS (semua kategori):
 
 TOP LOSERS (semua kategori):
   - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -6.99%
-  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: -6.95%
-  - Minyak WTI [Komoditas]: -3.81%
-  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: -3.26%
-  - Hang Seng (Hong Kong) [Indeks Saham - Global]: -1.32%
+  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
+  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY turun -0.23% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
-  - Yield US10Y turun -0.53% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
-  - VIX naik +1.25% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun -0.04% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) naik +0.63% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
-  - USD/JPY naik +0.12% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - Emas -0.56% & BTC -0.67% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG unggul +5.24 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - DXY turun -0.19% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -0.37% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX turun -6.13% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +1.09% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -0.12% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - BTC naik (+1.30%) sementara emas turun (-0.69%) -> uang mengejar aset berisiko (risk-on)
+  - IHSG tertinggal -3.92 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
 
-Skor sentimen: +3
-Kesimpulan: RISK-ON kuat: mayoritas sinyal makro condong ke aset berisiko (saham, kripto, komoditas industri). Aset aman (emas, obligasi, USD) relatif kurang diminati saat ini.
+Skor sentimen: +2
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (30 headline masuk):
-  * Luhut Usul ke Prabowo Kerugian Negara Bukan Pidana Korupsi [Detik Finance]
-  * MUI Tak Setuju Wajib Halal Diundur, Ini Alasannya [Detik Finance]
-  * Respons Bos BEI soal Isu Singapura di Balik IHSG Rontok Usai Pernyataan MSCI [Detik Finance]
-  * 6 Lembaga Tempatkan Mentan Amran Posisi Atas di Dua Tahun Prabowo-Gibran [Detik Finance]
-  * Suahasil Pastikan Penyaluran Gaji PNS Tak Lewat Koperasi [Detik Finance]
+  * Raksasa Keuangan Dunia Prediksi Ratusan Triliun Kabur Jika Bursa RI Turun Kasta [Detik Finance]
+  * Kejar Pertumbuhan, Pemerintah Guyur Rp 1.300 T Genjot Belanja Akhir Tahun [Detik Finance]
+  * 180 Insulator di Jalur KRL Diganti, 513,926 Km Jaringan Listrik Atas Dirawat [Detik Finance]
+  * Nilai Ekspor Hilirisasi Mineral Diprediksi Tembus Rp 898 Triliun [Detik Finance]
+  * Saran buat Pemerintah Usai MSCI Buka Opsi Bursa RI Turun Kasta [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
