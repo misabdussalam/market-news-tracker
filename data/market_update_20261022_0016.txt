@@ -1,0 +1,51 @@
+MARKET UPDATE - 22 October 2026, 00:16 WIB
+
+USD/IDR: 17943 (-0.24%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5278.89 (+5.65%)
+  vs Nikkei 225 (Jepang): +1.05% (selisih +4.60 poin %)
+  vs Hang Seng (Hong Kong): -1.32% (selisih +6.97 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -0.15% (selisih +5.80 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
+
+TOP GAINERS (semua kategori):
+  + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +8.00%
+  + IHSG (Composite) [Indeks Saham - Indonesia]: +5.65%
+  + Chandra Asri Petrochemical (TPIA) [Saham - Prajogo Pangestu]: +5.10%
+  + Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: +3.48%
+  + Bitcoin/USD [Kripto]: +1.48%
+
+TOP LOSERS (semua kategori):
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: -6.99%
+  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
+  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.04% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y naik +0.57% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -3.64% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -0.13% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.05% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - BTC naik (+1.48%) sementara emas turun (-0.05%) -> uang mengejar aset berisiko (risk-on)
+  - IHSG unggul +5.07 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.11% -> Normal (landai positif)
+
+Skor sentimen: +0
+Kesimpulan: CAMPURAN/tidak searah: sinyal-sinyal di atas berimbang. Pasar kemungkinan dalam fase konsolidasi/wait-and-see.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Dua Menteri Pastikan Gaji PNS Tidak Lewat Kopdes, Menkop Buka Suara [Detik Finance]
+  * Cihuy! DP 0% Rumah &amp; Kendaraan Masih Lanjut [Detik Finance]
+  * Prabowo Beri Pesan Keras buat MSCI [Detik Finance]
+  * Saat Pembayaran QRIS Telah Melintasi Batas Negara [Detik Finance]
+  * Rp 31,8 Triliun Disiapkan buat BSU, Beras 10 Kg, hingga Diskon Nataru [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
