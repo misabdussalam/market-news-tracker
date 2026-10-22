@@ -1,0 +1,51 @@
+MARKET UPDATE - 22 October 2026, 13:39 WIB
+
+USD/IDR: 17943 (-0.24%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5387.90 (+1.12%)
+  vs Nikkei 225 (Jepang): -2.65% (selisih +3.77 poin %)
+  vs Hang Seng (Hong Kong): -3.03% (selisih +4.15 poin %)
+  vs Shanghai Composite (China): -1.48% (selisih +2.60 poin %)
+  vs Straits Times (Singapura): -0.42% (selisih +1.54 poin %)
+  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
+
+TOP GAINERS (semua kategori):
+  + VIX - Index Volatilitas [Volatilitas]: +8.33%
+  + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +7.41%
+  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +3.63%
+  + Minyak Brent [Komoditas]: +3.20%
+  + Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +2.78%
+
+TOP LOSERS (semua kategori):
+  - Hang Seng (Hong Kong) [Indeks Saham - Global]: -3.03%
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -3.03%
+  - Bitcoin/USD [Kripto]: -2.94%
+  - Nikkei 225 (Jepang) [Indeks Saham - Global]: -2.65%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -2.48%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY naik +0.01% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y turun -1.98% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +8.33% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.03% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -1.59% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.63% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas -1.40% & BTC -2.94% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +1.92 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
+
+Skor sentimen: -3
+Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US Treasury, emas). Aset berisiko (saham, kripto) cenderung tertekan.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Menteri UMKM Ungkap Alasan Wajib Halal Ditunda [Detik Finance]
+  * Bank Mandiri Tingkatkan Layanan Digital untuk Dorong Pertumbuhan Bisnis [Detik Finance]
+  * Anggaran Rekening Gratis Turun dari Rp 3,84 T Jadi Rp 1,28 T [Detik Finance]
+  * UMK Lokal Dapat Diskon 50% Biaya Administrasi Toko Online Selamanya [Detik Finance]
+  * Putri Tanjung Bicara Pentingnya Ekosistem Kreatif yang Sehat [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
