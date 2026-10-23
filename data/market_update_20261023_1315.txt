@@ -1,0 +1,51 @@
+MARKET UPDATE - 23 October 2026, 13:15 WIB
+
+USD/IDR: 18050 (+0.23%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5439.26 (+0.95%)
+  vs Nikkei 225 (Jepang): -0.34% (selisih +1.29 poin %)
+  vs Hang Seng (Hong Kong): +0.69% (selisih +0.26 poin %)
+  vs Shanghai Composite (China): +0.89% (selisih +0.06 poin %)
+  vs Straits Times (Singapura): +0.13% (selisih +0.82 poin %)
+  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
+
+TOP GAINERS (semua kategori):
+  + Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +20.38%
+  + Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +17.57%
+  + VIX - Index Volatilitas [Volatilitas]: +6.25%
+  + Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +5.56%
+  + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +4.60%
+
+TOP LOSERS (semua kategori):
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: -2.91%
+  - Minyak Brent [Komoditas]: -2.75%
+  - Nasdaq Composite (AS) [Indeks Saham - Global]: -2.60%
+  - S&P 500 (AS) [Indeks Saham - Global]: -1.21%
+  - USD/JPY [Forex]: -1.10%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY naik +0.07% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y naik +0.08% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX naik +6.25% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) naik +0.16% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +1.62% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -1.10% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - BTC naik (+0.27%) sementara emas turun (-0.48%) -> uang mengejar aset berisiko (risk-on)
+  - IHSG unggul +2.16 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
+
+Skor sentimen: +0
+Kesimpulan: CAMPURAN/tidak searah: sinyal-sinyal di atas berimbang. Pasar kemungkinan dalam fase konsolidasi/wait-and-see.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Forum Investasi Jateng Bahas Strategi KEK Batang Hadapi Persaingan Global [Detik Finance]
+  * Bos OJK Lapor Prabowo Kondisi Bursa Usai MSCI Buka Opsi Turun Kasta [Detik Finance]
+  * Bank Mandiri Catat Laba Rp 45,5 T Hingga Kuartal III 2026 [Detik Finance]
+  * Dukung Program B50, Agrinas Targetkan Kontribusi 600 Ribu KL Biodiesel [Detik Finance]
+  * Masuk PSN, Agrinas Palma Rencanakan Peremajaan Sawit di Torganda [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
