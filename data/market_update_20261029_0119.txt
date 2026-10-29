@@ -1,0 +1,51 @@
+MARKET UPDATE - 29 October 2026, 01:19 WIB
+
+USD/IDR: 18183 (+0.24%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5266.13 (-1.99%)
+  vs Nikkei 225 (Jepang): +2.32% (selisih -4.31 poin %)
+  vs Hang Seng (Hong Kong): -0.73% (selisih -1.26 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): +0.29% (selisih -2.28 poin %)
+  Kesimpulan: IHSG tertinggal dari SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif rendah.
+
+TOP GAINERS (semua kategori):
+  + Nikkei 225 (Jepang) [Indeks Saham - Global]: +2.32%
+  + Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +2.27%
+  + Minyak WTI [Komoditas]: +2.09%
+  + US 30Y Treasury Yield [Obligasi/Yield]: +1.06%
+  + US 10Y Treasury Yield [Obligasi/Yield]: +1.04%
+
+TOP LOSERS (semua kategori):
+  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -6.97%
+  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
+  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.06% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y naik +1.04% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -3.48% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +0.73% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -0.08% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - BTC naik (+0.03%) sementara emas turun (-0.40%) -> uang mengejar aset berisiko (risk-on)
+  - IHSG tertinggal -2.27 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
+
+Skor sentimen: +0
+Kesimpulan: CAMPURAN/tidak searah: sinyal-sinyal di atas berimbang. Pasar kemungkinan dalam fase konsolidasi/wait-and-see.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Forum ASCOPE Ke-51 Sepakat Perkuat Arsitektur Energi Masa Depan ASEAN [Detik Finance]
+  * Sederet Manfaat QRIS, Bikin Transaksi Usaha Jadi Praktis [Detik Finance]
+  * Pasar Modal Dibersihkan, Kepercayaan Investor Dipulihkan [Detik Finance]
+  * The Fed Putuskan Tahan Suku Bunga [Detik Finance]
+  * Bos BRIN Lapor Prabowo Limbah Sawit Bisa Diolah Jadi Listrik [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
