@@ -1,51 +1,51 @@
-MARKET UPDATE - 29 October 2026, 01:19 WIB
+MARKET UPDATE - 29 October 2026, 15:05 WIB
 
-USD/IDR: 18183 (+0.24%)
+USD/IDR: 18128 (-0.06%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5266.13 (-1.99%)
-  vs Nikkei 225 (Jepang): +2.32% (selisih -4.31 poin %)
-  vs Hang Seng (Hong Kong): -0.73% (selisih -1.26 poin %)
-  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
-  vs Straits Times (Singapura): +0.29% (selisih -2.28 poin %)
+  IHSG: 5098.06 (-3.49%)
+  vs Nikkei 225 (Jepang): +1.08% (selisih -4.57 poin %)
+  vs Hang Seng (Hong Kong): -0.59% (selisih -2.90 poin %)
+  vs Shanghai Composite (China): -0.82% (selisih -2.67 poin %)
+  vs Straits Times (Singapura): -0.03% (selisih -3.46 poin %)
   Kesimpulan: IHSG tertinggal dari SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif rendah.
 
 TOP GAINERS (semua kategori):
-  + Nikkei 225 (Jepang) [Indeks Saham - Global]: +2.32%
-  + Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +2.27%
-  + Minyak WTI [Komoditas]: +2.09%
-  + US 30Y Treasury Yield [Obligasi/Yield]: +1.06%
-  + US 10Y Treasury Yield [Obligasi/Yield]: +1.04%
+  + DAX (Jerman) [Indeks Saham - Global]: +1.39%
+  + Chandra Asri Petrochemical (TPIA) [Saham - Prajogo Pangestu]: +1.12%
+  + Nikkei 225 (Jepang) [Indeks Saham - Global]: +1.08%
+  + TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +0.70%
+  + FTSE 100 (Inggris) [Indeks Saham - Global]: +0.52%
 
 TOP LOSERS (semua kategori):
-  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -6.97%
-  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
-  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
-  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
-  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -6.88%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: -6.88%
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -6.76%
+  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -6.74%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: -6.73%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY turun -0.06% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
-  - Yield US10Y naik +1.04% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
-  - VIX turun -3.48% -> kecemasan pasar mereda (risk-on)
-  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) naik +0.73% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
-  - USD/JPY turun -0.08% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
-  - BTC naik (+0.03%) sementara emas turun (-0.40%) -> uang mengejar aset berisiko (risk-on)
-  - IHSG tertinggal -2.27 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+  - DXY turun -0.17% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -1.57% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX turun -0.59% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) naik +0.01% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) turun -0.93% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.09% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas -0.23% & BTC -0.08% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG tertinggal -3.16 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
 
-Skor sentimen: +0
-Kesimpulan: CAMPURAN/tidak searah: sinyal-sinyal di atas berimbang. Pasar kemungkinan dalam fase konsolidasi/wait-and-see.
+Skor sentimen: +1
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (30 headline masuk):
-  * Forum ASCOPE Ke-51 Sepakat Perkuat Arsitektur Energi Masa Depan ASEAN [Detik Finance]
-  * Sederet Manfaat QRIS, Bikin Transaksi Usaha Jadi Praktis [Detik Finance]
-  * Pasar Modal Dibersihkan, Kepercayaan Investor Dipulihkan [Detik Finance]
-  * The Fed Putuskan Tahan Suku Bunga [Detik Finance]
-  * Bos BRIN Lapor Prabowo Limbah Sawit Bisa Diolah Jadi Listrik [Detik Finance]
+  * GOTO Cetak Laba Rp 441 Miliar [Detik Finance]
+  * Laba PTBA Melonjak, Capai Rp 4,41 Triliun hingga Triwulan III 2026 [Detik Finance]
+  * Prabowo Bakal Resmikan Pabrik Baterai Mobil Listrik di Karawang [Detik Finance]
+  * Investor AS Pede MSCI Tak Turunkan Kasta Bursa RI, Ini Alasannya [Detik Finance]
+  * Minerba Convex 2026 Digelar 2-3 November, Ada Klinik RKAB hingga Zona Anak [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
