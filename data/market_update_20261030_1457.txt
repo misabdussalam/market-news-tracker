@@ -1,0 +1,51 @@
+MARKET UPDATE - 30 October 2026, 14:57 WIB
+
+USD/IDR: 18138 (+0.40%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5057.05 (-0.80%)
+  vs Nikkei 225 (Jepang): -2.12% (selisih +1.32 poin %)
+  vs Hang Seng (Hong Kong): +1.46% (selisih -2.26 poin %)
+  vs Shanghai Composite (China): -1.44% (selisih +0.64 poin %)
+  vs Straits Times (Singapura): -0.36% (selisih -0.44 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Shanghai Composite (China); tertinggal dari: Hang Seng (Hong Kong), Straits Times (Singapura).
+
+TOP GAINERS (semua kategori):
+  + VIX - Index Volatilitas [Volatilitas]: +11.22%
+  + Minyak WTI [Komoditas]: +2.18%
+  + Hang Seng (Hong Kong) [Indeks Saham - Global]: +1.46%
+  + USD/IDR [Forex]: +0.40%
+  + TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +0.07%
+
+TOP LOSERS (semua kategori):
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -6.99%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: -6.97%
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -6.96%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: -6.86%
+  - Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: -6.83%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.06% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -0.74% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +11.22% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.24% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -0.98% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.34% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas -2.76% & BTC -1.03% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +0.53 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
+
+Skor sentimen: -1
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * SETC Dorong Tepa Selira Kembangkan Usaha dan Berdayakan Warga [Detik Finance]
+  * Dukung UMKM, SETC Dorong Tepa Selira Jaga Kearifan Lokal [Detik Finance]
+  * 250 Proyek Strategis Nasional Rampung, Total Investasi Rp 2.396 Triliun [Detik Finance]
+  * Menteri PU Bongkar Masalah Kali Angke, Ada Bendung Peninggalan Belanda [Detik Finance]
+  * Tim Kemenperin Usut Insiden Gas Pindo Deli Ganggu Warga di Karawang [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
