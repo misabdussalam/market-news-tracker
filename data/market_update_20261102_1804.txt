@@ -1,0 +1,51 @@
+MARKET UPDATE - 02 November 2026, 18:04 WIB
+
+USD/IDR: 18161 (+0.50%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5057.05 (-0.80%)
+  vs Nikkei 225 (Jepang): -2.12% (selisih +1.32 poin %)
+  vs Hang Seng (Hong Kong): +1.46% (selisih -2.26 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -0.36% (selisih -0.44 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang); tertinggal dari: Hang Seng (Hong Kong), Shanghai Composite (China), Straits Times (Singapura).
+
+TOP GAINERS (semua kategori):
+  + VIX - Index Volatilitas [Volatilitas]: +2.21%
+  + Emas (XAU/USD) [Komoditas]: +1.76%
+  + Copper Futures (Dr. Copper) [Komoditas]: +1.56%
+  + Hang Seng (Hong Kong) [Indeks Saham - Global]: +1.46%
+  + EEM - Emerging Markets ETF [Indeks Saham - Global]: +1.39%
+
+TOP LOSERS (semua kategori):
+  - Chandra Daya Investasi (CDIA) [Saham - Prajogo Pangestu]: +nan%
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.22% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -1.10% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +2.21% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.37% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +1.56% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -0.01% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas naik (+1.76%) sementara BTC turun (-1.35%) -> pola klasik 'flight to safety' (risk-off)
+  - IHSG tertinggal -1.20 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
+
+Skor sentimen: -2
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (45 headline masuk):
+  * Produk Petrokimia China Serbu Pasar RI, Industri Pasang Kuda-kuda [Detik Finance]
+  * Syarat buat Singapura Jika Tetap Pengin Impor Listrik RI [Detik Finance]
+  * Airlangga Lapor ke Prabowo PMI Manufaktur Naik ke Level 54 [Detik Finance]
+  * Minuman Manis Kemasan Bakal Kena Cukai Mulai 2027 [Detik Finance]
+  * Heboh Pajak Transaksi Digital Mulai 9 November, Begini Respons Pemerintah [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
