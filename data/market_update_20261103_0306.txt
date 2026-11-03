@@ -1,0 +1,51 @@
+MARKET UPDATE - 03 November 2026, 03:06 WIB
+
+USD/IDR: 18161 (+0.26%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5052.27 (-0.87%)
+  vs Nikkei 225 (Jepang): -0.33% (selisih -0.54 poin %)
+  vs Hang Seng (Hong Kong): +0.41% (selisih -1.28 poin %)
+  vs Shanghai Composite (China): -0.88% (selisih +0.01 poin %)
+  vs Straits Times (Singapura): -0.38% (selisih -0.49 poin %)
+  Kesimpulan: IHSG unggul dari: Shanghai Composite (China); tertinggal dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura).
+
+TOP GAINERS (semua kategori):
+  + VIX - Index Volatilitas [Volatilitas]: +8.91%
+  + Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +6.98%
+  + Emas (XAU/USD) [Komoditas]: +1.54%
+  + DAX (Jerman) [Indeks Saham - Global]: +0.63%
+  + Hang Seng (Hong Kong) [Indeks Saham - Global]: +0.41%
+
+TOP LOSERS (semua kategori):
+  - Minyak Brent [Komoditas]: -10.99%
+  - Minyak WTI [Komoditas]: -7.25%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -6.80%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: -6.40%
+  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -5.84%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.06% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -0.71% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +8.91% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.70% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +0.25% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +0.14% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas naik (+1.54%) sementara BTC turun (-2.07%) -> pola klasik 'flight to safety' (risk-off)
+  - IHSG tertinggal -0.36 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
+
+Skor sentimen: +0
+Kesimpulan: CAMPURAN/tidak searah: sinyal-sinyal di atas berimbang. Pasar kemungkinan dalam fase konsolidasi/wait-and-see.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (45 headline masuk):
+  * Dolar AS Menguat ke Rp 18.160 [Detik Finance]
+  * IHSG Dibuka Menguat ke 5.104 [Detik Finance]
+  * RI-China Perkuat Kerja Sama Pertanian, Fokus Tingkatkan Produksi [Detik Finance]
+  * Pembalut Bukan Barang Mewah, Mengapa Masih Kena PPN? [Detik Finance]
+  * Bapanas Setop Sementara Izin Edar Beras Fortifikasi [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
