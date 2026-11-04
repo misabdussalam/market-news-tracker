@@ -1,38 +1,38 @@
-MARKET UPDATE - 03 November 2026, 16:01 WIB
+MARKET UPDATE - 04 November 2026, 01:44 WIB
 
-USD/IDR: 18148 (+0.19%)
+USD/IDR: 18148 (+3.87%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 4904.29 (-3.78%)
-  vs Nikkei 225 (Jepang): -0.33% (selisih -3.45 poin %)
-  vs Hang Seng (Hong Kong): +0.42% (selisih -4.20 poin %)
-  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
-  vs Straits Times (Singapura): -1.36% (selisih -2.42 poin %)
-  Kesimpulan: IHSG tertinggal dari SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif rendah.
+  IHSG: 5096.83 (+0.79%)
+  vs Nikkei 225 (Jepang): -2.40% (selisih +3.19 poin %)
+  vs Hang Seng (Hong Kong): +0.42% (selisih +0.37 poin %)
+  vs Shanghai Composite (China): +1.08% (selisih -0.29 poin %)
+  vs Straits Times (Singapura): -1.78% (selisih +2.57 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
 
 TOP GAINERS (semua kategori):
+  + USD/IDR [Forex]: +3.87%
   + Chandra Daya Investasi (CDIA) [Saham - Prajogo Pangestu]: +2.30%
   + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +1.45%
-  + US 3M T-Bill Yield [Obligasi/Yield]: +1.21%
-  + Bitcoin/USD [Kripto]: +1.13%
-  + US 10Y Treasury Yield [Obligasi/Yield]: +1.10%
+  + US 10Y Treasury Yield [Obligasi/Yield]: +1.19%
+  + Shanghai Composite (China) [Indeks Saham - Global]: +1.08%
 
 TOP LOSERS (semua kategori):
   - Segi Investindo (SINI) [Saham - Happy Hapsoro]: -6.98%
   - Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: -6.86%
-  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: -6.80%
-  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: -6.72%
-  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
+  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.08% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y naik +1.10% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
-  - VIX turun -2.93% -> kecemasan pasar mereda (risk-on)
-  - HYG (obligasi high yield) naik +0.19% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
-  - Tembaga (Dr. Copper) turun -1.96% -> ekspektasi pertumbuhan global melemah (risk-off)
-  - USD/JPY naik +0.47% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - BTC naik (+1.13%) sementara emas turun (-0.56%) -> uang mengejar aset berisiko (risk-on)
-  - IHSG tertinggal -4.35 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+  - DXY turun -0.35% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y naik +1.19% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -1.51% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -2.44% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.06% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - BTC naik (+0.21%) sementara emas turun (-0.18%) -> uang mengejar aset berisiko (risk-on)
+  - IHSG unggul +0.43 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
 
@@ -42,10 +42,10 @@ Kesimpulan: CAMPURAN/tidak searah: sinyal-sinyal di atas berimbang. Pasar kemung
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (45 headline masuk):
-  * Pemerintah Pede Ekonomi 2026 Bisa Tumbuh 5,5% [Detik Finance]
-  * Ditanya Prabowo soal Kesiapan E20, Ini Jawaban Bahlil [Detik Finance]
-  * Bos Danantara Ungkap Laba BUMN Naik 20% [Detik Finance]
-  * SBN dan SRBI Diminati Asing, Rp 126 Triliun Masuk RI [Detik Finance]
-  * APBN Dikawal Ketat Imbas Lonjakan Harga Minyak di Atas US$ 100/ Barel [Detik Finance]
+  * IHSG Lengser ke Level 4.900, Simak Rekomendasi Saham Hari Ini [Detik Finance]
+  * Maman Tegaskan Tukang Cukur-Tukang Pijat Tak Kena Pajak [Detik Finance]
+  * Ramai Kapal, Potret Aktivitas di Selat Hormuz dari Musandam [Detik Finance]
+  * Rupiah Diramal Melemah hingga Akhir Tahun, Bisa Tembus Segini [Detik Finance]
+  * Pemprov Jabar Bangun Gapura Perbatasan Rp3 Miliar di Margonda Depok [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
