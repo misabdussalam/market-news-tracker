@@ -1,0 +1,51 @@
+MARKET UPDATE - 05 November 2026, 16:20 WIB
+
+USD/IDR: 18049 (+2.92%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5030.26 (+2.25%)
+  vs Nikkei 225 (Jepang): -1.42% (selisih +3.67 poin %)
+  vs Hang Seng (Hong Kong): +1.67% (selisih +0.58 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -0.01% (selisih +2.26 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
+
+TOP GAINERS (semua kategori):
+  + VIX - Index Volatilitas [Volatilitas]: +55.33%
+  + Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +16.80%
+  + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +6.04%
+  + Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +4.03%
+  + USD/IDR [Forex]: +2.92%
+
+TOP LOSERS (semua kategori):
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -6.67%
+  - Bitcoin/USD [Kripto]: -4.80%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: -4.43%
+  - Nasdaq Composite (AS) [Indeks Saham - Global]: -4.21%
+  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY naik +0.09% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y turun -1.29% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +55.33% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.25% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -1.70% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.34% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas naik (+0.74%) sementara BTC turun (-4.80%) -> pola klasik 'flight to safety' (risk-off)
+  - IHSG unggul +5.12 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.08% -> Normal (landai positif)
+
+Skor sentimen: -4
+Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US Treasury, emas). Aset berisiko (saham, kripto) cenderung tertekan.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (45 headline masuk):
+  * Alarm Banjir Rob Pertamina Bantu Selamatkan Hasil Tambak di Cilacap [Detik Finance]
+  * LPKR Kantongi Laba Rp 1,24 Triliun [Detik Finance]
+  * Cara Perwira Pertamina Bikin Desa Bondan Mandiri Energi dan Ekonomi [Detik Finance]
+  * Pemerintah Gandeng Universitas Genjot Kualitas Pekerja Migran [Detik Finance]
+  * Pengusaha China Bidik Pasar Indonesia, Incar Ekonomi Digital [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
