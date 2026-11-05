@@ -1,51 +1,51 @@
-MARKET UPDATE - 04 November 2026, 16:06 WIB
+MARKET UPDATE - 05 November 2026, 01:52 WIB
 
-USD/IDR: 18140 (+3.82%)
+USD/IDR: 18140 (+3.44%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 4919.77 (+0.32%)
-  vs Nikkei 225 (Jepang): -0.33% (selisih +0.65 poin %)
-  vs Hang Seng (Hong Kong): +0.57% (selisih -0.25 poin %)
-  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
-  vs Straits Times (Singapura): -0.65% (selisih +0.97 poin %)
-  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Straits Times (Singapura); tertinggal dari: Hang Seng (Hong Kong), Shanghai Composite (China).
+  IHSG: 4904.29 (-3.78%)
+  vs Nikkei 225 (Jepang): -2.07% (selisih -1.71 poin %)
+  vs Hang Seng (Hong Kong): +3.75% (selisih -7.53 poin %)
+  vs Shanghai Composite (China): +1.55% (selisih -5.33 poin %)
+  vs Straits Times (Singapura): +0.35% (selisih -4.13 poin %)
+  Kesimpulan: IHSG tertinggal dari SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif rendah.
 
 TOP GAINERS (semua kategori):
   + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +6.67%
-  + USD/IDR [Forex]: +3.82%
-  + Bitcoin/USD [Kripto]: +3.79%
+  + Emas (XAU/USD) [Komoditas]: +4.82%
+  + Bitcoin/USD [Kripto]: +4.43%
+  + Hang Seng (Hong Kong) [Indeks Saham - Global]: +3.75%
   + Chandra Asri Petrochemical (TPIA) [Saham - Prajogo Pangestu]: +3.59%
-  + Emas (XAU/USD) [Komoditas]: +2.96%
 
 TOP LOSERS (semua kategori):
-  - VIX - Index Volatilitas [Volatilitas]: -15.36%
-  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: -6.88%
-  - Chandra Daya Investasi (CDIA) [Saham - Prajogo Pangestu]: -6.74%
-  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -6.70%
-  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+  - VIX - Index Volatilitas [Volatilitas]: -20.26%
+  - Minyak Brent [Komoditas]: -9.61%
+  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
+  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY turun -0.35% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
-  - Yield US10Y turun -0.59% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
-  - VIX turun -15.36% -> kecemasan pasar mereda (risk-on)
-  - HYG (obligasi high yield) naik +0.46% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
-  - Tembaga (Dr. Copper) naik +0.34% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
-  - USD/JPY naik +0.31% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - Emas +2.96% & BTC +3.79% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG tertinggal -0.98 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+  - DXY turun -0.55% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -1.17% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX turun -20.26% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +0.37% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -0.27% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas +4.82% & BTC +4.43% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG tertinggal -5.36 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
 
-Skor sentimen: +5
-Kesimpulan: RISK-ON kuat: mayoritas sinyal makro condong ke aset berisiko (saham, kripto, komoditas industri). Aset aman (emas, obligasi, USD) relatif kurang diminati saat ini.
+Skor sentimen: +1
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (45 headline masuk):
-  * Pertamina Akuisisi Hak Partisipasi Moeve di Aljazair, Ini Rinciannya [Detik Finance]
-  * Bocoran Rencana Bangun Tempat Penyimpanan Minyak Hasil Impor [Detik Finance]
-  * Eddy Soeparno Dorong Nuklir untuk Bantu RI Kejar Nol Emisi 2060 [Detik Finance]
-  * Bansos Beras 30 Kg Mulai Disalurkan ke 33,2 Juta Keluarga [Detik Finance]
-  * Warga Madiun Berburu Beras Murah, Harga SPHP Rp55 Ribu [Detik Finance]
+  * BRMS Pacu Produksi Emas, LTLS Bangun Pabrik Baru, BIPP Tambah Modal Rp 100 Miliar [Detik Finance]
+  * Warga Tanjung Priok Ubah 50 Kg Sampah Plastik Jadi 40 Liter Solar [Detik Finance]
+  * Rencana Bahlil Bikin Penyimpanan Minyak di Sumatera [Detik Finance]
+  * Belasan Bank Mulai Berguguran di 2026 [Detik Finance]
+  * OJK Umumkan Pelaku Poles Saham, Ini Daftarnya [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
