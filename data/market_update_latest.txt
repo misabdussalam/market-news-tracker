@@ -1,40 +1,40 @@
-MARKET UPDATE - 05 November 2026, 16:20 WIB
+MARKET UPDATE - 06 November 2026, 01:52 WIB
 
-USD/IDR: 18049 (+2.92%)
+USD/IDR: 17509 (-0.15%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5030.26 (+2.25%)
-  vs Nikkei 225 (Jepang): -1.42% (selisih +3.67 poin %)
-  vs Hang Seng (Hong Kong): +1.67% (selisih +0.58 poin %)
-  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
-  vs Straits Times (Singapura): -0.01% (selisih +2.26 poin %)
-  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
+  IHSG: 4919.77 (+0.32%)
+  vs Nikkei 225 (Jepang): -7.77% (selisih +8.09 poin %)
+  vs Hang Seng (Hong Kong): +2.39% (selisih -2.07 poin %)
+  vs Shanghai Composite (China): -1.34% (selisih +1.66 poin %)
+  vs Straits Times (Singapura): -1.55% (selisih +1.87 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Shanghai Composite (China), Straits Times (Singapura); tertinggal dari: Hang Seng (Hong Kong).
 
 TOP GAINERS (semua kategori):
-  + VIX - Index Volatilitas [Volatilitas]: +55.33%
+  + VIX - Index Volatilitas [Volatilitas]: +69.66%
   + Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +16.80%
   + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +6.04%
+  + Minyak Brent [Komoditas]: +4.89%
   + Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +4.03%
-  + USD/IDR [Forex]: +2.92%
 
 TOP LOSERS (semua kategori):
+  - Nikkei 225 (Jepang) [Indeks Saham - Global]: -7.77%
   - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -6.67%
-  - Bitcoin/USD [Kripto]: -4.80%
-  - EEM - Emerging Markets ETF [Indeks Saham - Global]: -4.43%
-  - Nasdaq Composite (AS) [Indeks Saham - Global]: -4.21%
-  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
+  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.09% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y turun -1.29% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
-  - VIX naik +55.33% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun -0.25% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) turun -1.70% -> ekspektasi pertumbuhan global melemah (risk-off)
-  - USD/JPY turun -0.34% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
-  - Emas naik (+0.74%) sementara BTC turun (-4.80%) -> pola klasik 'flight to safety' (risk-off)
-  - IHSG unggul +5.12 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - DXY naik +0.11% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y turun -1.16% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +69.66% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -2.12% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.29% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas naik (+0.18%) sementara BTC turun (-5.36%) -> pola klasik 'flight to safety' (risk-off)
+  - IHSG unggul +4.68 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
-  [Konteks siklus] Yield Curve US10Y-3M: +0.08% -> Normal (landai positif)
+  [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
 
 Skor sentimen: -4
 Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US Treasury, emas). Aset berisiko (saham, kripto) cenderung tertekan.
@@ -42,10 +42,10 @@ Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (45 headline masuk):
-  * Alarm Banjir Rob Pertamina Bantu Selamatkan Hasil Tambak di Cilacap [Detik Finance]
-  * LPKR Kantongi Laba Rp 1,24 Triliun [Detik Finance]
-  * Cara Perwira Pertamina Bikin Desa Bondan Mandiri Energi dan Ekonomi [Detik Finance]
-  * Pemerintah Gandeng Universitas Genjot Kualitas Pekerja Migran [Detik Finance]
-  * Pengusaha China Bidik Pasar Indonesia, Incar Ekonomi Digital [Detik Finance]
+  * Harga Telur Naik Jadi Rp 26.000/Kg, Daging Sapi Rp 145.000/Kg [Detik Finance]
+  * AUTO Bidik 30 Gerai Baru, LPKR dan ITMG Umumkan Aksi Korporasi [Detik Finance]
+  * Ekonomi Jakarta Tumbuh 5,52 Persen, Lampaui Rata-Rata Nasional [Detik Finance]
+  * Kondisi Industri Keuangan RI di Tengah Ancaman Inflasi &amp; Suku Bunga Tinggi [Detik Finance]
+  * MSCI Bikin Rp 16 Triliun Cabut dari Pasar Modal [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
