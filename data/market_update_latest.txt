@@ -1,51 +1,51 @@
-MARKET UPDATE - 06 November 2026, 01:52 WIB
+MARKET UPDATE - 06 November 2026, 15:48 WIB
 
-USD/IDR: 17509 (-0.15%)
+USD/IDR: 18004 (+2.82%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 4919.77 (+0.32%)
-  vs Nikkei 225 (Jepang): -7.77% (selisih +8.09 poin %)
-  vs Hang Seng (Hong Kong): +2.39% (selisih -2.07 poin %)
-  vs Shanghai Composite (China): -1.34% (selisih +1.66 poin %)
-  vs Straits Times (Singapura): -1.55% (selisih +1.87 poin %)
-  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Shanghai Composite (China), Straits Times (Singapura); tertinggal dari: Hang Seng (Hong Kong).
+  IHSG: 5050.43 (+0.40%)
+  vs Nikkei 225 (Jepang): -1.79% (selisih +2.19 poin %)
+  vs Hang Seng (Hong Kong): -1.27% (selisih +1.67 poin %)
+  vs Shanghai Composite (China): -1.10% (selisih +1.50 poin %)
+  vs Straits Times (Singapura): -2.21% (selisih +2.61 poin %)
+  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
 
 TOP GAINERS (semua kategori):
-  + VIX - Index Volatilitas [Volatilitas]: +69.66%
-  + Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +16.80%
-  + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +6.04%
-  + Minyak Brent [Komoditas]: +4.89%
-  + Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +4.03%
+  + Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +3.10%
+  + USD/IDR [Forex]: +2.82%
+  + EEM - Emerging Markets ETF [Indeks Saham - Global]: +2.34%
+  + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +1.55%
+  + Nasdaq Composite (AS) [Indeks Saham - Global]: +1.50%
 
 TOP LOSERS (semua kategori):
-  - Nikkei 225 (Jepang) [Indeks Saham - Global]: -7.77%
-  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -6.67%
-  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
-  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
-  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
+  - VIX - Index Volatilitas [Volatilitas]: -10.08%
+  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -6.94%
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -6.59%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: -4.72%
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -3.21%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.11% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y turun -1.16% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
-  - VIX naik +69.66% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) turun -2.12% -> ekspektasi pertumbuhan global melemah (risk-off)
-  - USD/JPY turun -0.29% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
-  - Emas naik (+0.18%) sementara BTC turun (-5.36%) -> pola klasik 'flight to safety' (risk-off)
-  - IHSG unggul +4.68 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - DXY naik +0.61% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y naik +0.56% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -10.08% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) naik +0.01% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +0.09% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -0.06% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas -1.41% & BTC -0.52% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG tertinggal -0.45 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
 
-Skor sentimen: -4
-Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US Treasury, emas). Aset berisiko (saham, kripto) cenderung tertekan.
+Skor sentimen: -1
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (45 headline masuk):
-  * Harga Telur Naik Jadi Rp 26.000/Kg, Daging Sapi Rp 145.000/Kg [Detik Finance]
-  * AUTO Bidik 30 Gerai Baru, LPKR dan ITMG Umumkan Aksi Korporasi [Detik Finance]
-  * Ekonomi Jakarta Tumbuh 5,52 Persen, Lampaui Rata-Rata Nasional [Detik Finance]
-  * Kondisi Industri Keuangan RI di Tengah Ancaman Inflasi &amp; Suku Bunga Tinggi [Detik Finance]
-  * MSCI Bikin Rp 16 Triliun Cabut dari Pasar Modal [Detik Finance]
+  * Kemendag Buka Suara soal Harga Tepung Tapioka Mahal [Detik Finance]
+  * Laba Bersih Bank Mandiri Tumbuh 19,6% Menjadi Rp 46,5 T di Oktober 2026 [Detik Finance]
+  * Mekanisme Ekspor Batu Bara hingga CPO Via DSI Mulai 1 Januari [Detik Finance]
+  * Pembangunan Underpass Bitung Tangerang Dikebut, Progres Capai 70,7 Persen [Detik Finance]
+  * Pemerintah Jamin Sistem Ekspor Lewat DSI Tak Tambah Biaya [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
