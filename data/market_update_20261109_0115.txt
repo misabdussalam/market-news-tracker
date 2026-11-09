@@ -1,0 +1,51 @@
+MARKET UPDATE - 09 November 2026, 01:15 WIB
+
+USD/IDR: 18004 (+3.00%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5050.43 (+0.40%)
+  vs Nikkei 225 (Jepang): +2.47% (selisih -2.07 poin %)
+  vs Hang Seng (Hong Kong): -1.27% (selisih +1.67 poin %)
+  vs Shanghai Composite (China): -1.10% (selisih +1.50 poin %)
+  vs Straits Times (Singapura): -2.21% (selisih +2.61 poin %)
+  Kesimpulan: IHSG unggul dari: Hang Seng (Hong Kong), Shanghai Composite (China), Straits Times (Singapura); tertinggal dari: Nikkei 225 (Jepang).
+
+TOP GAINERS (semua kategori):
+  + Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +3.10%
+  + USD/IDR [Forex]: +3.00%
+  + Nikkei 225 (Jepang) [Indeks Saham - Global]: +2.47%
+  + EEM - Emerging Markets ETF [Indeks Saham - Global]: +2.21%
+  + Copper Futures (Dr. Copper) [Komoditas]: +1.65%
+
+TOP LOSERS (semua kategori):
+  - VIX - Index Volatilitas [Volatilitas]: -9.01%
+  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -6.94%
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -6.59%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: -4.72%
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -3.21%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.08% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y naik +0.45% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -9.01% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) turun -0.06% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +1.65% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +0.47% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas naik (+0.98%) sementara BTC turun (-0.96%) -> pola klasik 'flight to safety' (risk-off)
+  - IHSG unggul +0.09 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
+
+Skor sentimen: +2
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (45 headline masuk):
+  * Ekonomi RI Bisa Tumbuh 6%, tapi Ada Syaratnya [Detik Finance]
+  * Alasan Kendaraan Dicoret dari Biaya Operasional MBG [Detik Finance]
+  * Daftar 5 Provinsi dengan Korban PHK Terbanyak [Detik Finance]
+  * Cek! Ini Bocoran Formasi CPNS 2026 [Detik Finance]
+  * Bapanas Curiga Ada Penyelewengan Beras SPHP, Minta Satgas Pangan Turun Tangan [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
