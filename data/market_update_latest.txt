@@ -1,51 +1,51 @@
-MARKET UPDATE - 09 November 2026, 18:36 WIB
+MARKET UPDATE - 10 November 2026, 03:51 WIB
 
-USD/IDR: 18039 (+3.20%)
+USD/IDR: 18050 (-0.25%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5050.43 (+0.40%)
-  vs Nikkei 225 (Jepang): -5.96% (selisih +6.36 poin %)
-  vs Hang Seng (Hong Kong): -1.27% (selisih +1.67 poin %)
-  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
-  vs Straits Times (Singapura): -2.21% (selisih +2.61 poin %)
-  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
+  IHSG: 5149.80 (+1.50%)
+  vs Nikkei 225 (Jepang): +2.35% (selisih -0.85 poin %)
+  vs Hang Seng (Hong Kong): +0.24% (selisih +1.26 poin %)
+  vs Shanghai Composite (China): +0.06% (selisih +1.44 poin %)
+  vs Straits Times (Singapura): +1.45% (selisih +0.05 poin %)
+  Kesimpulan: IHSG unggul dari: Hang Seng (Hong Kong), Shanghai Composite (China), Straits Times (Singapura); tertinggal dari: Nikkei 225 (Jepang).
 
 TOP GAINERS (semua kategori):
-  + USD/IDR [Forex]: +3.20%
-  + EEM - Emerging Markets ETF [Indeks Saham - Global]: +2.61%
-  + Nasdaq Composite (AS) [Indeks Saham - Global]: +2.53%
-  + S&P 500 (AS) [Indeks Saham - Global]: +2.32%
-  + Dow Jones (AS) [Indeks Saham - Global]: +2.20%
+  + Petrosea (PTRO) [Saham - Prajogo Pangestu]: +16.75%
+  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +11.73%
+  + Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +8.95%
+  + Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +7.03%
+  + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +6.88%
 
 TOP LOSERS (semua kategori):
-  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
-  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
-  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
-  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
-  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
+  - VIX - Index Volatilitas [Volatilitas]: -22.31%
+  - Minyak Brent [Komoditas]: -6.89%
+  - Minyak WTI [Komoditas]: -5.64%
+  - DXY - Dollar Index [Forex]: -0.61%
+  - USD/IDR [Forex]: -0.25%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY turun -0.47% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
-  - Yield US10Y naik +0.27% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
-  - VIX turun -20.94% -> kecemasan pasar mereda (risk-on)
-  - HYG (obligasi high yield) naik +0.29% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
-  - Tembaga (Dr. Copper) naik +1.98% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
-  - USD/JPY naik +0.31% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - Emas naik (+0.91%) sementara BTC turun (-0.14%) -> pola klasik 'flight to safety' (risk-off)
-  - IHSG tertinggal -1.92 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+  - DXY turun -0.61% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y naik +0.10% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -22.31% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) naik +0.36% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +1.95% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -0.22% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas naik (+1.17%) sementara BTC turun (-0.21%) -> pola klasik 'flight to safety' (risk-off)
+  - IHSG tertinggal -0.85 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.08% -> Normal (landai positif)
 
-Skor sentimen: +2
-Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+Skor sentimen: +0
+Kesimpulan: CAMPURAN/tidak searah: sinyal-sinyal di atas berimbang. Pasar kemungkinan dalam fase konsolidasi/wait-and-see.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (45 headline masuk):
-  * Mau Lebih Mahir Kelola Laporan Keuangan? Yuk, Ikuti Pelatihan &amp; Sertifikasi Ini [Detik Finance]
-  * Pertamina Amankan Pasokan Minyak 32 Ribu Barel dari Aljazair [Detik Finance]
-  * Pengusaha Soroti Daerah UMP Tinggi, tapi Pengangguran Juga Tinggi [Detik Finance]
-  * Rp 100 Triliun Disiapkan buat Pemulihan Bencana Sumatera hingga 2028 [Detik Finance]
-  * ESDM Sebut Tak Ada Penambahan Kuota Pertalite, Hanya Pergeseran [Detik Finance]
+  * Impor KRL Bekas Jepang Batal, KCI Pesan Kereta INKA hingga 2028 [Detik Finance]
+  * Harga Emas Antam Menguat, Buyback Lompat Rp 25.000/Gram [Detik Finance]
+  * Dolar AS Melemah, tapi Masih Betah di Level Rp 18.000 [Detik Finance]
+  * IHSG Dibuka Menguat 0,74% ke Level 5.111 [Detik Finance]
+  * Harga Minyak Anjlok hingga 5%! [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
