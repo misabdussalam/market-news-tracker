@@ -1,51 +1,51 @@
-MARKET UPDATE - 11 November 2026, 01:32 WIB
+MARKET UPDATE - 11 November 2026, 16:00 WIB
 
-USD/IDR: 18012 (-0.26%)
+USD/IDR: 17968 (-0.50%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5073.77 (+0.46%)
-  vs Nikkei 225 (Jepang): +3.52% (selisih -3.06 poin %)
-  vs Hang Seng (Hong Kong): -0.13% (selisih +0.59 poin %)
-  vs Shanghai Composite (China): +0.32% (selisih +0.14 poin %)
-  vs Straits Times (Singapura): +1.68% (selisih -1.22 poin %)
-  Kesimpulan: IHSG unggul dari: Hang Seng (Hong Kong), Shanghai Composite (China); tertinggal dari: Nikkei 225 (Jepang), Straits Times (Singapura).
+  IHSG: 5115.04 (-0.21%)
+  vs Nikkei 225 (Jepang): +2.87% (selisih -3.08 poin %)
+  vs Hang Seng (Hong Kong): -0.98% (selisih +0.77 poin %)
+  vs Shanghai Composite (China): +0.46% (selisih -0.67 poin %)
+  vs Straits Times (Singapura): +0.59% (selisih -0.80 poin %)
+  Kesimpulan: IHSG unggul dari: Hang Seng (Hong Kong); tertinggal dari: Nikkei 225 (Jepang), Shanghai Composite (China), Straits Times (Singapura).
 
 TOP GAINERS (semua kategori):
-  + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +23.28%
-  + Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +17.37%
-  + Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +15.62%
-  + Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +15.38%
-  + Petrosea (PTRO) [Saham - Prajogo Pangestu]: +15.31%
+  + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +11.59%
+  + Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +4.04%
+  + Nikkei 225 (Jepang) [Indeks Saham - Global]: +2.87%
+  + Minyak Brent [Komoditas]: +2.85%
+  + EEM - Emerging Markets ETF [Indeks Saham - Global]: +2.82%
 
 TOP LOSERS (semua kategori):
-  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -3.29%
-  - VIX - Index Volatilitas [Volatilitas]: -2.31%
-  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
-  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
-  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
+  - VIX - Index Volatilitas [Volatilitas]: -8.89%
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -6.71%
+  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -6.64%
+  - Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: -4.21%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: -2.88%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.62% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y naik +2.45% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
-  - VIX turun -2.31% -> kecemasan pasar mereda (risk-on)
-  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) turun -0.55% -> ekspektasi pertumbuhan global melemah (risk-off)
-  - USD/JPY naik +0.59% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - Emas -1.79% & BTC -2.05% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG unggul +0.84 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - DXY naik +0.63% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y naik +0.30% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -8.89% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) naik +0.13% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +1.05% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +1.18% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - BTC naik (+0.29%) sementara emas turun (-0.44%) -> uang mengejar aset berisiko (risk-on)
+  - IHSG tertinggal -1.37 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
 
-Skor sentimen: -1
-Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
+Skor sentimen: +2
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
-BERITA TERBARU (45 headline masuk):
-  * Harga Cabai Makin Pedas, Daging Sapi-Telur Ayam Turun [Detik Finance]
-  * Pasar Ikan Pantai Liido, Denyut Ekonomi Masyarakat Pesisir Somalia [Detik Finance]
-  * 18 Emiten Ditendang BEI, Ada SRIL-DUCK [Detik Finance]
-  * BYD Minta Bantuan Pemerintah Usai Berkali-kali Digeruduk Ormas [Detik Finance]
-  * 7 Rangkaian KRL INKA Banyak Masalah, Pintu sampai Suspensi [Detik Finance]
+BERITA TERBARU (30 headline masuk):
+  * Prabowo Sebut Rp480 T Belanja APBN Hangus: Ternyata Banyak Kebocoran [CNN Indonesia - Ekonomi]
+  * Pemerintah Telusuri Alih Fungsi 554 Ribu Hektare Sawah [CNN Indonesia - Ekonomi]
+  * Ara Undang Prabowo ke Akad Massal 71 Ribu Rumah Subsidi 17 Desember [CNN Indonesia - Ekonomi]
+  * Pemerintah Catat Usulan Sawah Masuk LP2B 6,46 Juta Ha, 87,97% dari LBS [CNN Indonesia - Ekonomi]
+  * Menko Pangan Dorong Ritel Modern Perkuat Daya Saing Produk Lokal [CNN Indonesia - Ekonomi]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
