@@ -1,14 +1,14 @@
-MARKET UPDATE - 10 November 2026, 16:19 WIB
+MARKET UPDATE - 11 November 2026, 01:32 WIB
 
-USD/IDR: 18012 (-0.46%)
+USD/IDR: 18012 (-0.26%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5125.73 (+1.02%)
-  vs Nikkei 225 (Jepang): +2.33% (selisih -1.31 poin %)
-  vs Hang Seng (Hong Kong): -0.13% (selisih +1.15 poin %)
-  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
-  vs Straits Times (Singapura): -2.21% (selisih +3.23 poin %)
-  Kesimpulan: IHSG unggul dari: Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Nikkei 225 (Jepang), Shanghai Composite (China).
+  IHSG: 5073.77 (+0.46%)
+  vs Nikkei 225 (Jepang): +3.52% (selisih -3.06 poin %)
+  vs Hang Seng (Hong Kong): -0.13% (selisih +0.59 poin %)
+  vs Shanghai Composite (China): +0.32% (selisih +0.14 poin %)
+  vs Straits Times (Singapura): +1.68% (selisih -1.22 poin %)
+  Kesimpulan: IHSG unggul dari: Hang Seng (Hong Kong), Shanghai Composite (China); tertinggal dari: Nikkei 225 (Jepang), Straits Times (Singapura).
 
 TOP GAINERS (semua kategori):
   + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +23.28%
@@ -19,33 +19,33 @@ TOP GAINERS (semua kategori):
 
 TOP LOSERS (semua kategori):
   - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -3.29%
-  - Bitcoin/USD [Kripto]: -2.36%
-  - Straits Times (Singapura) [Indeks Saham - Global]: -2.21%
-  - Minyak Brent [Komoditas]: -2.07%
-  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+  - VIX - Index Volatilitas [Volatilitas]: -2.31%
+  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
+  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.66% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y naik +2.53% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
-  - VIX naik +3.56% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun -0.48% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) turun -1.03% -> ekspektasi pertumbuhan global melemah (risk-off)
-  - USD/JPY naik +0.28% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - Emas -1.57% & BTC -2.36% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG unggul +1.69 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - DXY naik +0.62% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y naik +2.45% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -2.31% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -0.55% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY naik +0.59% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas -1.79% & BTC -2.05% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +0.84 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
 
-Skor sentimen: -3
-Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US Treasury, emas). Aset berisiko (saham, kripto) cenderung tertekan.
+Skor sentimen: -1
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (45 headline masuk):
-  * Tertarik Berkarier di Bidang Akuntansi? Ikut Pelatihan Ini dan Raih Sertifikasi BNSP! [Detik Finance]
-  * RI Bisa Intip Laporan Pajak Perusahaan Multinasional Mulai 2027 [Detik Finance]
-  * Pengusaha Nekat Langgar HET Beras-Telur Didenda Rp 1,5 Miliar [Detik Finance]
-  * Aksi Tipu-tipu Investasi Saham hingga Emas Terbongkar! Ini Daftar Pelakunya [Detik Finance]
-  * Airlangga Sebut Ekonomi Kuat di Tengah Kabar Wapres Gibran Mau Mundur [Detik Finance]
+  * Harga Cabai Makin Pedas, Daging Sapi-Telur Ayam Turun [Detik Finance]
+  * Pasar Ikan Pantai Liido, Denyut Ekonomi Masyarakat Pesisir Somalia [Detik Finance]
+  * 18 Emiten Ditendang BEI, Ada SRIL-DUCK [Detik Finance]
+  * BYD Minta Bantuan Pemerintah Usai Berkali-kali Digeruduk Ormas [Detik Finance]
+  * 7 Rangkaian KRL INKA Banyak Masalah, Pintu sampai Suspensi [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
