@@ -1,51 +1,51 @@
-MARKET UPDATE - 12 November 2026, 02:33 WIB
+MARKET UPDATE - 12 November 2026, 16:42 WIB
 
-USD/IDR: 17968 (-0.95%)
+USD/IDR: 18063 (-0.42%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5174.83 (+0.96%)
-  vs Nikkei 225 (Jepang): +2.09% (selisih -1.13 poin %)
-  vs Hang Seng (Hong Kong): -2.13% (selisih +3.09 poin %)
-  vs Shanghai Composite (China): +0.93% (selisih +0.03 poin %)
-  vs Straits Times (Singapura): +0.58% (selisih +0.38 poin %)
-  Kesimpulan: IHSG unggul dari: Hang Seng (Hong Kong), Shanghai Composite (China), Straits Times (Singapura); tertinggal dari: Nikkei 225 (Jepang).
+  IHSG: 5250.90 (+2.66%)
+  vs Nikkei 225 (Jepang): +1.31% (selisih +1.35 poin %)
+  vs Hang Seng (Hong Kong): -0.98% (selisih +3.64 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): +0.59% (selisih +2.07 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
 
 TOP GAINERS (semua kategori):
-  + Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +9.21%
-  + Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: +8.79%
-  + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +7.69%
-  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +6.23%
-  + Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +6.16%
+  + Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +10.96%
+  + Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +10.53%
+  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +8.61%
+  + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +8.17%
+  + Petrosea (PTRO) [Saham - Prajogo Pangestu]: +8.00%
 
 TOP LOSERS (semua kategori):
-  - VIX - Index Volatilitas [Volatilitas]: -10.12%
-  - Hang Seng (Hong Kong) [Indeks Saham - Global]: -2.13%
-  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
-  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
-  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
+  - Bitcoin/USD [Kripto]: -3.31%
+  - Emas (XAU/USD) [Komoditas]: -3.19%
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -1.96%
+  - Copper Futures (Dr. Copper) [Komoditas]: -1.52%
+  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.69% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y naik +0.30% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
-  - VIX turun -10.12% -> kecemasan pasar mereda (risk-on)
-  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) naik +0.76% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
-  - USD/JPY naik +0.63% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - BTC naik (+0.14%) sementara emas turun (-0.88%) -> uang mengejar aset berisiko (risk-on)
-  - IHSG tertinggal -0.35 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+  - DXY naik +0.27% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y naik +1.52% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX naik +0.40% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.28% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -1.52% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY naik +0.83% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas -3.19% & BTC -3.31% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +2.62 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
-  [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
+  [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
 
-Skor sentimen: +0
-Kesimpulan: CAMPURAN/tidak searah: sinyal-sinyal di atas berimbang. Pasar kemungkinan dalam fase konsolidasi/wait-and-see.
+Skor sentimen: -3
+Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US Treasury, emas). Aset berisiko (saham, kripto) cenderung tertekan.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (45 headline masuk):
-  * Sambut Pengunduran Diri Gibran, IHSG Meroket! [Detik Finance]
-  * Daftar Harga Pangan Hari Ini: Cabai Makin Mahal-Daging Turun [Detik Finance]
-  * MSCI Keluarkan BRPT dan BRMS, GMFI Ekspansi ke Oman [Detik Finance]
-  * Perahu Eretan Kapuk Muara Jadi Jalan Pintas Warga [Detik Finance]
-  * 11 Saham BUMN Masuk Kategori HSC, Ini Daftarnya [Detik Finance]
+  * BSU Rp 900.000 Ditransfer ke Rekening Penerima, Tidak Lewat Pos [Detik Finance]
+  * Potret Aktivitas Ekspor di Pelabuhan Peti Kemas Bitung Sulut [Detik Finance]
+  * Harga Minyak Mentah Oktober Naik, November Diprediksi Landai [Detik Finance]
+  * BSI Perkuat Layanan &amp; Infrastruktur Digital Dukung Pelunasan Haji 2027 [Detik Finance]
+  * Airlangga soal Dolar AS Tembus Rp 18.200: Pengaruh Sentimen! [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
