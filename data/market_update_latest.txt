@@ -1,51 +1,51 @@
-MARKET UPDATE - 13 November 2026, 02:11 WIB
+MARKET UPDATE - 13 November 2026, 16:02 WIB
 
-USD/IDR: 18063 (+3.28%)
+USD/IDR: 18149 (+3.77%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5230.11 (+2.25%)
-  vs Nikkei 225 (Jepang): +1.01% (selisih +1.24 poin %)
-  vs Hang Seng (Hong Kong): -1.87% (selisih +4.12 poin %)
-  vs Shanghai Composite (China): -0.50% (selisih +2.75 poin %)
-  vs Straits Times (Singapura): -1.03% (selisih +3.28 poin %)
-  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
+  IHSG: 5344.41 (+1.78%)
+  vs Nikkei 225 (Jepang): -0.70% (selisih +2.48 poin %)
+  vs Hang Seng (Hong Kong): -1.26% (selisih +3.04 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -0.13% (selisih +1.91 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
 
 TOP GAINERS (semua kategori):
-  + VIX - Index Volatilitas [Volatilitas]: +6.92%
-  + USD/IDR [Forex]: +3.28%
-  + Minyak Brent [Komoditas]: +2.63%
-  + IHSG (Composite) [Indeks Saham - Indonesia]: +2.25%
-  + US 10Y Treasury Yield [Obligasi/Yield]: +2.10%
+  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +19.95%
+  + VIX - Index Volatilitas [Volatilitas]: +8.82%
+  + Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: +7.33%
+  + Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: +6.15%
+  + Petrosea (PTRO) [Saham - Prajogo Pangestu]: +4.53%
 
 TOP LOSERS (semua kategori):
-  - Bitcoin/USD [Kripto]: -4.65%
-  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: -3.74%
-  - TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +nan%
-  - HYG - High Yield Corp Bond ETF [Obligasi/Yield]: +nan%
-  - EEM - Emerging Markets ETF [Indeks Saham - Global]: +nan%
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -4.00%
+  - Bitcoin/USD [Kripto]: -3.66%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: -1.79%
+  - Nasdaq Composite (AS) [Indeks Saham - Global]: -1.58%
+  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.22% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y naik +2.10% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
-  - VIX naik +6.92% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun +nan% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) turun -0.56% -> ekspektasi pertumbuhan global melemah (risk-off)
-  - USD/JPY naik +0.09% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - Emas -2.15% & BTC -4.65% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG unggul +2.60 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - DXY naik +0.18% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y naik +0.51% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX naik +8.82% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) naik +0.01% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) turun -1.08% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY naik +0.08% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas -0.07% & BTC -3.66% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +2.72 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
 
-Skor sentimen: -3
-Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US Treasury, emas). Aset berisiko (saham, kripto) cenderung tertekan.
+Skor sentimen: -1
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
-BERITA TERBARU (45 headline masuk):
-  * Boeing Mau PHK 5% Karyawan di Tengah Mandeknya Produksi Pesawat [Detik Finance]
-  * INKA Bakal Jadi Anak Usaha KAI, Apa Untungnya? [Detik Finance]
-  * Pengusaha Wanti-wanti Ketidakpastian Politik Ganggu Ekonomi [Detik Finance]
-  * BEI Siapkan Hadiah Rp 60 Juta buat Genjot Transaksi SSF [Detik Finance]
-  * Pertamina Ungkap Nasib Harga Pertamax yang Tak Berubah Sejak Agustus [Detik Finance]
+BERITA TERBARU (30 headline masuk):
+  * bank bjb Gandeng HKTI Kembangkan Ekosistem Rantai Pasok Pangan [CNN Indonesia - Ekonomi]
+  * Program Klasterku Hidupku BRI Perluas Akses Pasar Petani Melon Bansari [CNN Indonesia - Ekonomi]
+  * Bea Cukai Sita 1,7 Miliar Batang Rokok Ilegal hingga Oktober 2026 [CNN Indonesia - Ekonomi]
+  * Kemenkeu Kejar Uji Tuntas Caplok Saham Whoosh Kelar Desember 2026 [CNN Indonesia - Ekonomi]
+  * Setoran Pajak Tembus Rp1.796 T per Oktober 2026 [CNN Indonesia - Ekonomi]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
