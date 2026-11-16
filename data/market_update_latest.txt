@@ -1,51 +1,51 @@
-MARKET UPDATE - 16 November 2026, 01:27 WIB
+MARKET UPDATE - 16 November 2026, 18:13 WIB
 
-USD/IDR: 18149 (+2.93%)
+USD/IDR: 18126 (+2.80%)
 
 DETAIL IHSG vs KAWASAN ASIA:
   IHSG: 5344.41 (+1.78%)
-  vs Nikkei 225 (Jepang): -1.04% (selisih +2.82 poin %)
+  vs Nikkei 225 (Jepang): +0.53% (selisih +1.25 poin %)
   vs Hang Seng (Hong Kong): -1.55% (selisih +3.33 poin %)
-  vs Shanghai Composite (China): -0.59% (selisih +2.37 poin %)
-  vs Straits Times (Singapura): -0.18% (selisih +1.96 poin %)
-  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -0.96% (selisih +2.74 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
 
 TOP GAINERS (semua kategori):
-  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +19.95%
-  + Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: +7.33%
-  + Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: +6.15%
-  + Petrosea (PTRO) [Saham - Prajogo Pangestu]: +4.53%
-  + Chandra Daya Investasi (CDIA) [Saham - Prajogo Pangestu]: +3.93%
+  + VIX - Index Volatilitas [Volatilitas]: +13.47%
+  + USD/IDR [Forex]: +2.80%
+  + IHSG (Composite) [Indeks Saham - Indonesia]: +1.78%
+  + Nikkei 225 (Jepang) [Indeks Saham - Global]: +0.53%
+  + US 3M T-Bill Yield [Obligasi/Yield]: +0.15%
 
 TOP LOSERS (semua kategori):
-  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -4.00%
-  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: -1.79%
-  - Hang Seng (Hong Kong) [Indeks Saham - Global]: -1.55%
-  - Nikkei 225 (Jepang) [Indeks Saham - Global]: -1.04%
-  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: -0.93%
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.01% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y naik +1.00% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
-  - VIX naik +3.21% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun -0.05% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) turun -0.48% -> ekspektasi pertumbuhan global melemah (risk-off)
-  - USD/JPY turun -0.11% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
-  - BTC naik (+0.93%) sementara emas turun (-0.25%) -> uang mengejar aset berisiko (risk-on)
-  - IHSG unggul +2.18 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - DXY naik +0.14% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y turun -0.41% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +13.47% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.17% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -1.26% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.20% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas -0.81% & BTC -0.71% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +3.37 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
 
-Skor sentimen: -4
+Skor sentimen: -3
 Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US Treasury, emas). Aset berisiko (saham, kripto) cenderung tertekan.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (45 headline masuk):
-  * Prabowo Minta Maaf soal Asap Karhutla, Ungkap 104 Perusahaan Ditindak [Detik Finance]
-  * AS &amp; China Bertemu Jelang KTT APEC Bahas Pemangkasan Tarif [Detik Finance]
-  * Alasan DJP Tebar Email Minta Cek-Pembetulan SPT Tahunan [Detik Finance]
-  * TPA Gampong Jawa Banda Aceh Hasilkan 4.000 Meter Kubik Gas Metana [Detik Finance]
-  * Menaker soal BSU Tak Kunjung Cair: Masih Proses Administrasi [Detik Finance]
+  * BI Luncurkan RMB Clearing Bank untuk Perkuat Stabilitas [Detik Finance]
+  * Harga Batu Bara Acuan Naik Jadi US$ 130,81/ Ton [Detik Finance]
+  * Trump, Xi Jinping, dan Putin Bakal Ngobrol Bareng di Shenzhen [Detik Finance]
+  * Bos IMF Wanti-wanti AI Mengancam Stabilitas Keuangan Dunia [Detik Finance]
+  * Tol Yogyakarta-Bawen Seksi 6 Rampung, Siap Dukung Arus Libur Nataru 2026 [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
