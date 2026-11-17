@@ -1,0 +1,51 @@
+MARKET UPDATE - 17 November 2026, 04:14 WIB
+
+USD/IDR: 18126 (-0.53%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5354.42 (+0.63%)
+  vs Nikkei 225 (Jepang): -1.31% (selisih +1.94 poin %)
+  vs Hang Seng (Hong Kong): -0.75% (selisih +1.38 poin %)
+  vs Shanghai Composite (China): -0.01% (selisih +0.64 poin %)
+  vs Straits Times (Singapura): -0.94% (selisih +1.57 poin %)
+  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
+
+TOP GAINERS (semua kategori):
+  + VIX - Index Volatilitas [Volatilitas]: +18.70%
+  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +2.44%
+  + Petrosea (PTRO) [Saham - Prajogo Pangestu]: +1.67%
+  + Chandra Asri Petrochemical (TPIA) [Saham - Prajogo Pangestu]: +1.20%
+  + Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: +1.03%
+
+TOP LOSERS (semua kategori):
+  - Minyak Brent [Komoditas]: -4.40%
+  - Minyak WTI [Komoditas]: -4.03%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: -3.54%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: -3.33%
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: -3.24%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY naik +0.10% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y turun -0.64% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +18.70% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.27% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -1.78% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.34% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas -0.40% & BTC -0.63% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +2.55 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
+
+Skor sentimen: -3
+Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US Treasury, emas). Aset berisiko (saham, kripto) cenderung tertekan.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Harga Minyak Dunia Turun ke US$92, Pasar Dibayangi Prospek Luber Stok [CNN Indonesia - Ekonomi]
+  * Gangguan Bank di AS Bikin Ribuan Nasabah Tak Bisa Akses Akun [CNN Indonesia - Ekonomi]
+  * Harga Emas Antam Turun Jadi Rp2,515 Juta, Buyback Anjlok Rp20 Ribu [CNN Indonesia - Ekonomi]
+  * Rupiah Dibuka Melemah, Makin Mepet Level Rp18.300 per Dolar AS [CNN Indonesia - Ekonomi]
+  * Apa Benar Dana Cadangan Pesangon Akan Disimpan di Danantara? [CNN Indonesia - Ekonomi]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
