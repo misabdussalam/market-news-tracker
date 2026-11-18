@@ -1,51 +1,51 @@
-MARKET UPDATE - 18 November 2026, 03:11 WIB
+MARKET UPDATE - 18 November 2026, 17:07 WIB
 
 USD/IDR: 18158 (+3.20%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5312.41 (+0.14%)
-  vs Nikkei 225 (Jepang): -0.28% (selisih +0.42 poin %)
-  vs Hang Seng (Hong Kong): -0.88% (selisih +1.02 poin %)
-  vs Shanghai Composite (China): -0.25% (selisih +0.39 poin %)
-  vs Straits Times (Singapura): -1.21% (selisih +1.35 poin %)
-  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
+  IHSG: 5304.75 (-0.30%)
+  vs Nikkei 225 (Jepang): -1.34% (selisih +1.04 poin %)
+  vs Hang Seng (Hong Kong): -1.03% (selisih +0.73 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -1.43% (selisih +1.13 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
 
 TOP GAINERS (semua kategori):
-  + VIX - Index Volatilitas [Volatilitas]: +11.13%
   + USD/IDR [Forex]: +3.20%
-  + US 3M T-Bill Yield [Obligasi/Yield]: +0.32%
-  + TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +0.21%
-  + DXY - Dollar Index [Forex]: +0.14%
+  + TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +0.79%
+  + DXY - Dollar Index [Forex]: +0.34%
+  + Nasdaq Composite (AS) [Indeks Saham - Global]: +0.16%
+  + US 3M T-Bill Yield [Obligasi/Yield]: +0.12%
 
 TOP LOSERS (semua kategori):
-  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: -4.43%
-  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: -3.74%
-  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -3.52%
-  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: -3.00%
-  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: -2.12%
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.14% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y turun -0.35% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
-  - VIX naik +11.13% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun -0.13% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) turun -0.94% -> ekspektasi pertumbuhan global melemah (risk-off)
-  - USD/JPY turun -0.07% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
-  - Emas -1.68% & BTC -0.76% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG unggul +1.17 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - DXY naik +0.34% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y turun -0.76% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX turun -1.22% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) naik +0.03% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) turun -5.93% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.15% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas -3.20% & BTC -3.26% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG tertinggal -0.04 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
 
-  [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
+  [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
 
-Skor sentimen: -3
-Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US Treasury, emas). Aset berisiko (saham, kripto) cenderung tertekan.
+Skor sentimen: -1
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (30 headline masuk):
-  * Harga Emas Antam Turun Rp1.000 Jadi Rp2,514 Juta per Gram [CNN Indonesia - Ekonomi]
-  * Rupiah Dibuka Menguat ke Rp18.247 per Dolar AS Pagi Ini [CNN Indonesia - Ekonomi]
-  * Bapanas Tegaskan Petani Bisa Jual Jagung di Atas Harga Beli Pemerintah [CNN Indonesia - Ekonomi]
-  * Pengusaha Angkat Suara soal Wajib Titipkan Dana Pesangon ke Pemerintah [CNN Indonesia - Ekonomi]
-  * Kejar Setoran Pajak Rp514 T, Siapa yang Jadi Sasaran Ekstra DJP? [CNN Indonesia - Ekonomi]
+  * Pertamina Eco RunFest 2026 Ubah 2,5 Ton Botol Plastik Jadi Jersey [CNN Indonesia - Ekonomi]
+  * Korea Selatan Buntung Rp10,9 T Demi Gratiskan Tiket Kereta bagi Lansia [CNN Indonesia - Ekonomi]
+  * Kementerian ESDM Berduka Cita atas Korban Tewas Ledakan di Kilang Cepu [CNN Indonesia - Ekonomi]
+  * 303 Juta Orang Naik KRL Jabodetabek Selama Januari-Oktober 2026 [CNN Indonesia - Ekonomi]
+  * Aturan Antideforestasi Uni Eropa Ancam Ekspor RI Rp127,74 T [CNN Indonesia - Ekonomi]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
