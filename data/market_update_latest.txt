@@ -1,51 +1,51 @@
-MARKET UPDATE - 17 November 2026, 17:31 WIB
+MARKET UPDATE - 18 November 2026, 03:11 WIB
 
-USD/IDR: 18158 (-0.35%)
+USD/IDR: 18158 (+3.20%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5320.98 (-0.44%)
-  vs Nikkei 225 (Jepang): -2.42% (selisih +1.98 poin %)
-  vs Hang Seng (Hong Kong): +0.49% (selisih -0.93 poin %)
-  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
-  vs Straits Times (Singapura): -0.93% (selisih +0.49 poin %)
-  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Straits Times (Singapura); tertinggal dari: Hang Seng (Hong Kong), Shanghai Composite (China).
+  IHSG: 5312.41 (+0.14%)
+  vs Nikkei 225 (Jepang): -0.28% (selisih +0.42 poin %)
+  vs Hang Seng (Hong Kong): -0.88% (selisih +1.02 poin %)
+  vs Shanghai Composite (China): -0.25% (selisih +0.39 poin %)
+  vs Straits Times (Singapura): -1.21% (selisih +1.35 poin %)
+  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
 
 TOP GAINERS (semua kategori):
   + VIX - Index Volatilitas [Volatilitas]: +11.13%
-  + Minyak Brent [Komoditas]: +0.80%
-  + Minyak WTI [Komoditas]: +0.64%
-  + Emas (XAU/USD) [Komoditas]: +0.54%
-  + Hang Seng (Hong Kong) [Indeks Saham - Global]: +0.49%
+  + USD/IDR [Forex]: +3.20%
+  + US 3M T-Bill Yield [Obligasi/Yield]: +0.32%
+  + TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +0.21%
+  + DXY - Dollar Index [Forex]: +0.14%
 
 TOP LOSERS (semua kategori):
-  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
-  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
-  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
-  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
-  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: -4.43%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: -3.74%
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -3.52%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: -3.00%
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: -2.12%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY turun -0.13% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
-  - Yield US10Y turun -0.47% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - DXY naik +0.14% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y turun -0.35% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
   - VIX naik +11.13% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun -0.06% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) naik +0.08% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
-  - USD/JPY turun -0.35% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
-  - Emas naik (+0.54%) sementara BTC turun (-1.79%) -> pola klasik 'flight to safety' (risk-off)
-  - IHSG unggul +0.44 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - HYG (obligasi high yield) turun -0.13% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -0.94% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.07% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas -1.68% & BTC -0.76% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +1.17 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.10% -> Normal (landai positif)
 
-Skor sentimen: +0
-Kesimpulan: CAMPURAN/tidak searah: sinyal-sinyal di atas berimbang. Pasar kemungkinan dalam fase konsolidasi/wait-and-see.
+Skor sentimen: -3
+Kesimpulan: RISK-OFF kuat: mayoritas sinyal makro condong ke aset aman (USD, US Treasury, emas). Aset berisiko (saham, kripto) cenderung tertekan.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (30 headline masuk):
-  * Kementerian ESDM: Taman Nasional Ujung Kulon Bukan Daerah Pertambangan [CNN Indonesia - Ekonomi]
-  * MRT Belajar dari Jalan Layang Tua Seoul yang Disulap Jadi Taman Kota [CNN Indonesia - Ekonomi]
-  * Habibie Factor Festival Ubah Warisan Gagasan Jadi Metode Masa Depan [CNN Indonesia - Ekonomi]
-  * OJK Ingin Dana Cadangan Pesangon Masuk Ekosistem Dana Pensiun [CNN Indonesia - Ekonomi]
-  * KKP Minta Dapur MBG Masak Ikan Minimal Dua Kali Seminggu [CNN Indonesia - Ekonomi]
+  * Harga Emas Antam Turun Rp1.000 Jadi Rp2,514 Juta per Gram [CNN Indonesia - Ekonomi]
+  * Rupiah Dibuka Menguat ke Rp18.247 per Dolar AS Pagi Ini [CNN Indonesia - Ekonomi]
+  * Bapanas Tegaskan Petani Bisa Jual Jagung di Atas Harga Beli Pemerintah [CNN Indonesia - Ekonomi]
+  * Pengusaha Angkat Suara soal Wajib Titipkan Dana Pesangon ke Pemerintah [CNN Indonesia - Ekonomi]
+  * Kejar Setoran Pajak Rp514 T, Siapa yang Jadi Sasaran Ekstra DJP? [CNN Indonesia - Ekonomi]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
