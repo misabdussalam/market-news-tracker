@@ -1,0 +1,51 @@
+MARKET UPDATE - 19 November 2026, 17:14 WIB
+
+USD/IDR: 18158 (+2.82%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5247.88 (-1.07%)
+  vs Nikkei 225 (Jepang): +0.28% (selisih -1.35 poin %)
+  vs Hang Seng (Hong Kong): -0.91% (selisih -0.16 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -1.06% (selisih -0.01 poin %)
+  Kesimpulan: IHSG tertinggal dari SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif rendah.
+
+TOP GAINERS (semua kategori):
+  + VIX - Index Volatilitas [Volatilitas]: +7.61%
+  + USD/IDR [Forex]: +2.82%
+  + Nikkei 225 (Jepang) [Indeks Saham - Global]: +0.28%
+  + US 3M T-Bill Yield [Obligasi/Yield]: +0.19%
+  + USD/JPY [Forex]: +0.10%
+
+TOP LOSERS (semua kategori):
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.01% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y naik +0.04% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX naik +7.61% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.06% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -0.87% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY naik +0.10% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas -1.75% & BTC -1.10% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +0.49 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
+
+Skor sentimen: -1
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Dirut PNM Sabet Gelar Katalisator Kemandirian Pengusaha Ultra Mikro [CNN Indonesia - Ekonomi]
+  * FOTO: Perajin Sepatu Cakung Bertahan di Tengah Persaingan Pasar [CNN Indonesia - Ekonomi]
+  * BGN Perketat Pengawasan Dapur MBG pada Dua Waktu Krusial [CNN Indonesia - Ekonomi]
+  * UMP Jatim 2027 Diproyeksi Naik 9 Persen, Buruh Tuntut Rp3,74 Juta [CNN Indonesia - Ekonomi]
+  * Menkeu Buka-bukaan soal Cara Belanjakan Rp945 T dalam Dua Bulan [CNN Indonesia - Ekonomi]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
