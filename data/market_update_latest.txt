@@ -1,51 +1,51 @@
-MARKET UPDATE - 18 November 2026, 17:07 WIB
+MARKET UPDATE - 19 November 2026, 02:51 WIB
 
-USD/IDR: 18158 (+3.20%)
+USD/IDR: 17660 (+0.37%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5304.75 (-0.30%)
-  vs Nikkei 225 (Jepang): -1.34% (selisih +1.04 poin %)
-  vs Hang Seng (Hong Kong): -1.03% (selisih +0.73 poin %)
-  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
-  vs Straits Times (Singapura): -1.43% (selisih +1.13 poin %)
-  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
+  IHSG: 5255.15 (+0.14%)
+  vs Nikkei 225 (Jepang): +0.20% (selisih -0.06 poin %)
+  vs Hang Seng (Hong Kong): -1.80% (selisih +1.94 poin %)
+  vs Shanghai Composite (China): -0.93% (selisih +1.07 poin %)
+  vs Straits Times (Singapura): +0.25% (selisih -0.11 poin %)
+  Kesimpulan: IHSG unggul dari: Hang Seng (Hong Kong), Shanghai Composite (China); tertinggal dari: Nikkei 225 (Jepang), Straits Times (Singapura).
 
 TOP GAINERS (semua kategori):
-  + USD/IDR [Forex]: +3.20%
-  + TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +0.79%
-  + DXY - Dollar Index [Forex]: +0.34%
-  + Nasdaq Composite (AS) [Indeks Saham - Global]: +0.16%
-  + US 3M T-Bill Yield [Obligasi/Yield]: +0.12%
+  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +3.71%
+  + Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: +2.96%
+  + Petrosea (PTRO) [Saham - Prajogo Pangestu]: +1.75%
+  + Chandra Daya Investasi (CDIA) [Saham - Prajogo Pangestu]: +1.18%
+  + TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +0.84%
 
 TOP LOSERS (semua kategori):
-  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
-  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
-  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
-  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
-  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
+  - Copper Futures (Dr. Copper) [Komoditas]: -5.35%
+  - Minyak WTI [Komoditas]: -4.43%
+  - Minyak Brent [Komoditas]: -4.18%
+  - Bitcoin/USD [Kripto]: -3.61%
+  - VIX - Index Volatilitas [Volatilitas]: -3.53%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.34% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
-  - Yield US10Y turun -0.76% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
-  - VIX turun -1.22% -> kecemasan pasar mereda (risk-on)
+  - DXY naik +0.35% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y turun -0.73% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX turun -3.53% -> kecemasan pasar mereda (risk-on)
   - HYG (obligasi high yield) naik +0.03% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
-  - Tembaga (Dr. Copper) turun -5.93% -> ekspektasi pertumbuhan global melemah (risk-off)
-  - USD/JPY turun -0.15% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
-  - Emas -3.20% & BTC -3.26% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG tertinggal -0.04 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+  - Tembaga (Dr. Copper) turun -5.35% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.04% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas -3.22% & BTC -3.61% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +0.37 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.09% -> Normal (landai positif)
 
-Skor sentimen: -1
-Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
+Skor sentimen: +1
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
-BERITA TERBARU (30 headline masuk):
-  * Pertamina Eco RunFest 2026 Ubah 2,5 Ton Botol Plastik Jadi Jersey [CNN Indonesia - Ekonomi]
-  * Korea Selatan Buntung Rp10,9 T Demi Gratiskan Tiket Kereta bagi Lansia [CNN Indonesia - Ekonomi]
-  * Kementerian ESDM Berduka Cita atas Korban Tewas Ledakan di Kilang Cepu [CNN Indonesia - Ekonomi]
-  * 303 Juta Orang Naik KRL Jabodetabek Selama Januari-Oktober 2026 [CNN Indonesia - Ekonomi]
-  * Aturan Antideforestasi Uni Eropa Ancam Ekspor RI Rp127,74 T [CNN Indonesia - Ekonomi]
+BERITA TERBARU (45 headline masuk):
+  * Dolar AS Menguat ke Level Rp 18.256 [Detik Finance]
+  * IHSG Bergerak ke Zona Merah Pagi Ini [Detik Finance]
+  * Antisipasi Gejolak Global, Pertamina Perkuat Rantai Pasok BBM dan LPG [Detik Finance]
+  * Nasib SPBU VIVO Usai Diambil Alih APR [Detik Finance]
+  * AKRA Akuisisi SPBU VIVO Rp 282 Miliar dan EXCL Bukukan Kenaikan Laba 94% [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
