@@ -1,0 +1,51 @@
+MARKET UPDATE - 20 November 2026, 16:52 WIB
+
+USD/IDR: 18158 (+2.95%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5146.33 (-0.92%)
+  vs Nikkei 225 (Jepang): +0.71% (selisih -1.63 poin %)
+  vs Hang Seng (Hong Kong): -1.95% (selisih +1.03 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): +0.49% (selisih -1.41 poin %)
+  Kesimpulan: IHSG unggul dari: Hang Seng (Hong Kong); tertinggal dari: Nikkei 225 (Jepang), Shanghai Composite (China), Straits Times (Singapura).
+
+TOP GAINERS (semua kategori):
+  + VIX - Index Volatilitas [Volatilitas]: +7.91%
+  + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +7.35%
+  + USD/IDR [Forex]: +2.95%
+  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +1.28%
+  + TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +1.08%
+
+TOP LOSERS (semua kategori):
+  - Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: -6.43%
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -4.58%
+  - Bitcoin/USD [Kripto]: -3.90%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: -3.81%
+  - Shanghai Composite (China) [Indeks Saham - Global]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.18% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -2.06% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +7.91% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.18% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -2.36% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY turun -0.41% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas -3.75% & BTC -3.90% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +0.98 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.08% -> Normal (landai positif)
+
+Skor sentimen: -1
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (45 headline masuk):
+  * Aktivitas Pekerja di Ibu Kota Saat UMP Jakarta 2027 Ditetapkan Naik Rp407 Ribu [Detik Finance]
+  * Pengusaha Waswas Aturan Dana Cadangan Pesangon Tambah Beban Usaha [Detik Finance]
+  * Menperin Resmikan Pabrik Parfum, Dorong Bahan Baku Lokal Jadi Produk Unggulan [Detik Finance]
+  * Pengusaha Bicara Opsi Penundaan-Minta Insentif soal UMP Jakarta Rp 6,1 Juta [Detik Finance]
+  * HIPMI Usul Plafon KUR Naik Jadi Rp 2 M [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
