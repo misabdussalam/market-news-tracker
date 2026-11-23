@@ -1,0 +1,51 @@
+MARKET UPDATE - 23 November 2026, 20:00 WIB
+
+USD/IDR: 18158 (-0.53%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5146.33 (-0.92%)
+  vs Nikkei 225 (Jepang): -5.06% (selisih +4.14 poin %)
+  vs Hang Seng (Hong Kong): -1.89% (selisih +0.97 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -2.05% (selisih +1.13 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
+
+TOP GAINERS (semua kategori):
+  + EEM - Emerging Markets ETF [Indeks Saham - Global]: +7.49%
+  + Nasdaq Composite (AS) [Indeks Saham - Global]: +6.57%
+  + S&P 500 (AS) [Indeks Saham - Global]: +4.86%
+  + Emas (XAU/USD) [Komoditas]: +3.58%
+  + Dow Jones (AS) [Indeks Saham - Global]: +3.14%
+
+TOP LOSERS (semua kategori):
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY naik +0.53% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y naik +0.33% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -23.43% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) naik +0.32% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +2.56% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -0.48% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas +3.58% & BTC +0.15% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG tertinggal -5.78 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.08% -> Normal (landai positif)
+
+Skor sentimen: -1
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (45 headline masuk):
+  * Perdagangan RI-Uni Eropa Diproyeksi Naik 40% Usai Teken IEU-CEPA [Detik Finance]
+  * RI-Eropa Pertemuan Perdana Usai Teken IEU-CEPA, Bahas Hambatan Nontarif [Detik Finance]
+  * Sorotan ke Pasar Modal RI: Kepemilikan Saham dan Perdagangan Tak Wajar [Detik Finance]
+  * Calon Wapres, Amran Sulaiman Punya Harta Rp 1,72 Triliun [Detik Finance]
+  * Karyawan Mogok Kerja, Bandara Lumpuh, Seluruh Penerbangan Dibatalkan [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)

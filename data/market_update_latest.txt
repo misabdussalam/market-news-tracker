@@ -1,51 +1,51 @@
-MARKET UPDATE - 23 November 2026, 02:01 WIB
+MARKET UPDATE - 23 November 2026, 20:00 WIB
 
 USD/IDR: 18158 (-0.53%)
 
 DETAIL IHSG vs KAWASAN ASIA:
   IHSG: 5146.33 (-0.92%)
   vs Nikkei 225 (Jepang): -5.06% (selisih +4.14 poin %)
-  vs Hang Seng (Hong Kong): -1.38% (selisih +0.46 poin %)
-  vs Shanghai Composite (China): -1.13% (selisih +0.21 poin %)
-  vs Straits Times (Singapura): -1.37% (selisih +0.45 poin %)
-  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
+  vs Hang Seng (Hong Kong): -1.89% (selisih +0.97 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -2.05% (selisih +1.13 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
 
 TOP GAINERS (semua kategori):
-  + VIX - Index Volatilitas [Volatilitas]: +26.20%
-  + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +7.35%
-  + Emas (XAU/USD) [Komoditas]: +2.48%
-  + TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +1.37%
-  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +1.28%
+  + EEM - Emerging Markets ETF [Indeks Saham - Global]: +7.49%
+  + Nasdaq Composite (AS) [Indeks Saham - Global]: +6.57%
+  + S&P 500 (AS) [Indeks Saham - Global]: +4.86%
+  + Emas (XAU/USD) [Komoditas]: +3.58%
+  + Dow Jones (AS) [Indeks Saham - Global]: +3.14%
 
 TOP LOSERS (semua kategori):
-  - Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: -6.43%
-  - Nasdaq Composite (AS) [Indeks Saham - Global]: -5.28%
-  - EEM - Emerging Markets ETF [Indeks Saham - Global]: -5.13%
-  - Nikkei 225 (Jepang) [Indeks Saham - Global]: -5.06%
-  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -4.58%
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY turun -0.06% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
-  - Yield US10Y turun -2.77% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
-  - VIX naik +26.20% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun -0.26% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) naik +0.79% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - DXY naik +0.53% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y naik +0.33% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -23.43% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) naik +0.32% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +2.56% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
   - USD/JPY turun -0.48% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
-  - Emas +2.48% & BTC +1.14% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG unggul +2.78 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - Emas +3.58% & BTC +0.15% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG tertinggal -5.78 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.08% -> Normal (landai positif)
 
-Skor sentimen: +1
-Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+Skor sentimen: -1
+Kesimpulan: Risk-off ringan: sedikit lebih banyak sinyal mendukung aset aman, tapi belum dominan penuh.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (45 headline masuk):
-  * PKPK Dapat Kontrak Batu Bara Rp 1,38 T, MBMA Raup Laba Rp 2,3 T [Detik Finance]
-  * Telat Bayar Pajak, Harta Bisa Dirampas? Ini Penjelasan DJP [Detik Finance]
-  * 25 Tahun Absen, RI Kini Punya Hak Tentukan Aturan Penerbangan Dunia [Detik Finance]
-  * Anak Sekolah Bakal Lebih Sering Makan Ikan, Ini Rencana Pemerintah [Detik Finance]
-  * Rp 249 T di Tangan Bos Djarum, Segini Harta 9 Orang Terkaya RI Lainnya [Detik Finance]
+  * Perdagangan RI-Uni Eropa Diproyeksi Naik 40% Usai Teken IEU-CEPA [Detik Finance]
+  * RI-Eropa Pertemuan Perdana Usai Teken IEU-CEPA, Bahas Hambatan Nontarif [Detik Finance]
+  * Sorotan ke Pasar Modal RI: Kepemilikan Saham dan Perdagangan Tak Wajar [Detik Finance]
+  * Calon Wapres, Amran Sulaiman Punya Harta Rp 1,72 Triliun [Detik Finance]
+  * Karyawan Mogok Kerja, Bandara Lumpuh, Seluruh Penerbangan Dibatalkan [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
