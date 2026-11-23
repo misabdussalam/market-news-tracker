@@ -1,0 +1,51 @@
+MARKET UPDATE - 23 November 2026, 02:01 WIB
+
+USD/IDR: 18158 (-0.53%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5146.33 (-0.92%)
+  vs Nikkei 225 (Jepang): -5.06% (selisih +4.14 poin %)
+  vs Hang Seng (Hong Kong): -1.38% (selisih +0.46 poin %)
+  vs Shanghai Composite (China): -1.13% (selisih +0.21 poin %)
+  vs Straits Times (Singapura): -1.37% (selisih +0.45 poin %)
+  Kesimpulan: IHSG mengungguli SELURUH indeks kawasan Asia yang dipantau -> kekuatan relatif tinggi.
+
+TOP GAINERS (semua kategori):
+  + VIX - Index Volatilitas [Volatilitas]: +26.20%
+  + Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: +7.35%
+  + Emas (XAU/USD) [Komoditas]: +2.48%
+  + TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +1.37%
+  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +1.28%
+
+TOP LOSERS (semua kategori):
+  - Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: -6.43%
+  - Nasdaq Composite (AS) [Indeks Saham - Global]: -5.28%
+  - EEM - Emerging Markets ETF [Indeks Saham - Global]: -5.13%
+  - Nikkei 225 (Jepang) [Indeks Saham - Global]: -5.06%
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -4.58%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.06% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -2.77% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +26.20% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.26% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) naik +0.79% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -0.48% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas +2.48% & BTC +1.14% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +2.78 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.08% -> Normal (landai positif)
+
+Skor sentimen: +1
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (45 headline masuk):
+  * PKPK Dapat Kontrak Batu Bara Rp 1,38 T, MBMA Raup Laba Rp 2,3 T [Detik Finance]
+  * Telat Bayar Pajak, Harta Bisa Dirampas? Ini Penjelasan DJP [Detik Finance]
+  * 25 Tahun Absen, RI Kini Punya Hak Tentukan Aturan Penerbangan Dunia [Detik Finance]
+  * Anak Sekolah Bakal Lebih Sering Makan Ikan, Ini Rencana Pemerintah [Detik Finance]
+  * Rp 249 T di Tangan Bos Djarum, Segini Harta 9 Orang Terkaya RI Lainnya [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
