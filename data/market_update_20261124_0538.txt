@@ -1,0 +1,51 @@
+MARKET UPDATE - 24 November 2026, 05:38 WIB
+
+USD/IDR: 18158 (-0.70%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5228.93 (+0.25%)
+  vs Nikkei 225 (Jepang): +4.04% (selisih -3.79 poin %)
+  vs Hang Seng (Hong Kong): -0.35% (selisih +0.60 poin %)
+  vs Shanghai Composite (China): +0.46% (selisih -0.21 poin %)
+  vs Straits Times (Singapura): +0.94% (selisih -0.69 poin %)
+  Kesimpulan: IHSG unggul dari: Hang Seng (Hong Kong); tertinggal dari: Nikkei 225 (Jepang), Shanghai Composite (China), Straits Times (Singapura).
+
+TOP GAINERS (semua kategori):
+  + EEM - Emerging Markets ETF [Indeks Saham - Global]: +7.41%
+  + Nasdaq Composite (AS) [Indeks Saham - Global]: +6.51%
+  + S&P 500 (AS) [Indeks Saham - Global]: +4.73%
+  + Nikkei 225 (Jepang) [Indeks Saham - Global]: +4.04%
+  + Dow Jones (AS) [Indeks Saham - Global]: +3.01%
+
+TOP LOSERS (semua kategori):
+  - VIX - Index Volatilitas [Volatilitas]: -25.83%
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -6.85%
+  - Petrosea (PTRO) [Saham - Prajogo Pangestu]: -6.50%
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -5.91%
+  - Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: -5.50%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.04% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y naik +0.12% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -25.83% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) naik +0.25% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) turun -2.40% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY naik +0.15% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas -0.59% & BTC -0.87% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG tertinggal -4.48 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.08% -> Normal (landai positif)
+
+Skor sentimen: +1
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Garap Aset Domestik hingga Global, Pertamina Jaga Ketahanan Energi RI [CNN Indonesia - Ekonomi]
+  * Produsen Ladaku Ungkap Proses Pengendalian Mutu, Kini Tunggu Uji BPOM [CNN Indonesia - Ekonomi]
+  * Hotel Borobudur Jakarta Siap Sambut Perayaan Natal dan Tahun Baru 2027 [CNN Indonesia - Ekonomi]
+  * Banjir Pasokan, Harga Minyak Dunia Turun Dekati Level Terendah 3 Bulan [CNN Indonesia - Ekonomi]
+  * MIND ID Dorong Integrasi Rantai Nilai Mineral Kawasan di Forum ASEAN [CNN Indonesia - Ekonomi]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
