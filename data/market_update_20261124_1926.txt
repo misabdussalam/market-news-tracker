@@ -1,0 +1,51 @@
+MARKET UPDATE - 24 November 2026, 19:26 WIB
+
+USD/IDR: 18131 (-0.85%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5215.85 (+1.35%)
+  vs Nikkei 225 (Jepang): -5.06% (selisih +6.41 poin %)
+  vs Hang Seng (Hong Kong): -0.12% (selisih +1.47 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): -0.43% (selisih +1.78 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
+
+TOP GAINERS (semua kategori):
+  + Minyak WTI [Komoditas]: +2.20%
+  + IHSG (Composite) [Indeks Saham - Indonesia]: +1.35%
+  + Dow Jones (AS) [Indeks Saham - Global]: +0.86%
+  + VIX - Index Volatilitas [Volatilitas]: +0.68%
+  + US 3M T-Bill Yield [Obligasi/Yield]: +0.55%
+
+TOP LOSERS (semua kategori):
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.50% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -0.20% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +0.68% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) turun -0.07% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -2.67% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - USD/JPY naik +0.18% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas -2.41% & BTC -2.28% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +1.83 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.07% -> Normal (landai positif)
+
+Skor sentimen: +1
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (45 headline masuk):
+  * KA Borobudur Mulai Operasi 16 Desember, Segini Harga Tiketnya [Detik Finance]
+  * Empat Wilayah di Ternate Diusulkan Masuk Program Kampung Nelayan 2027 [Detik Finance]
+  * RI Bisa Produksi Mobil Listrik Akhir 2028 [Detik Finance]
+  * Gandeng Kawasan Ekonomi Korea, KEK Batang Perluas Peluang Investasi [Detik Finance]
+  * Pabrik Motor Listrik Nasional Dibangun 2027, Harga di Bawah Rp 20 Juta [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
