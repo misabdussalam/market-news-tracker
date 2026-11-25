@@ -1,51 +1,51 @@
-MARKET UPDATE - 24 November 2026, 19:26 WIB
+MARKET UPDATE - 25 November 2026, 04:38 WIB
 
-USD/IDR: 18131 (-0.85%)
+USD/IDR: 18280 (+0.54%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5215.85 (+1.35%)
-  vs Nikkei 225 (Jepang): -5.06% (selisih +6.41 poin %)
-  vs Hang Seng (Hong Kong): -0.12% (selisih +1.47 poin %)
-  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
-  vs Straits Times (Singapura): -0.43% (selisih +1.78 poin %)
-  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Shanghai Composite (China).
+  IHSG: 5224.54 (-0.33%)
+  vs Nikkei 225 (Jepang): -2.65% (selisih +2.32 poin %)
+  vs Hang Seng (Hong Kong): +0.21% (selisih -0.54 poin %)
+  vs Shanghai Composite (China): -1.01% (selisih +0.68 poin %)
+  vs Straits Times (Singapura): -0.15% (selisih -0.18 poin %)
+  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Shanghai Composite (China); tertinggal dari: Hang Seng (Hong Kong), Straits Times (Singapura).
 
 TOP GAINERS (semua kategori):
-  + Minyak WTI [Komoditas]: +2.20%
-  + IHSG (Composite) [Indeks Saham - Indonesia]: +1.35%
-  + Dow Jones (AS) [Indeks Saham - Global]: +0.86%
-  + VIX - Index Volatilitas [Volatilitas]: +0.68%
-  + US 3M T-Bill Yield [Obligasi/Yield]: +0.55%
+  + Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +2.08%
+  + Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +1.36%
+  + Segi Investindo (SINI) [Saham - Happy Hapsoro]: +1.00%
+  + Dow Jones (AS) [Indeks Saham - Global]: +0.85%
+  + Minyak WTI [Komoditas]: +0.79%
 
 TOP LOSERS (semua kategori):
-  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
-  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
-  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
-  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
-  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
+  - Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: -5.15%
+  - Chandra Daya Investasi (CDIA) [Saham - Prajogo Pangestu]: -4.28%
+  - Bitcoin/USD [Kripto]: -3.50%
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -3.42%
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: -3.14%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY turun -0.50% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
-  - Yield US10Y turun -0.20% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
-  - VIX naik +0.68% -> kecemasan pasar meningkat (risk-off)
-  - HYG (obligasi high yield) turun -0.07% -> spread kredit melebar, investor menghindari risiko (risk-off)
-  - Tembaga (Dr. Copper) turun -2.67% -> ekspektasi pertumbuhan global melemah (risk-off)
+  - DXY turun -0.33% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -0.28% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX turun -0.98% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) turun -0.12% -> spread kredit melebar, investor menghindari risiko (risk-off)
+  - Tembaga (Dr. Copper) turun -3.05% -> ekspektasi pertumbuhan global melemah (risk-off)
   - USD/JPY naik +0.18% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - Emas -2.41% & BTC -2.28% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG unggul +1.83 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+  - Emas -2.76% & BTC -3.50% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +0.17 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.07% -> Normal (landai positif)
 
-Skor sentimen: +1
-Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+Skor sentimen: +3
+Kesimpulan: RISK-ON kuat: mayoritas sinyal makro condong ke aset berisiko (saham, kripto, komoditas industri). Aset aman (emas, obligasi, USD) relatif kurang diminati saat ini.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
 BERITA TERBARU (45 headline masuk):
-  * KA Borobudur Mulai Operasi 16 Desember, Segini Harga Tiketnya [Detik Finance]
-  * Empat Wilayah di Ternate Diusulkan Masuk Program Kampung Nelayan 2027 [Detik Finance]
-  * RI Bisa Produksi Mobil Listrik Akhir 2028 [Detik Finance]
-  * Gandeng Kawasan Ekonomi Korea, KEK Batang Perluas Peluang Investasi [Detik Finance]
-  * Pabrik Motor Listrik Nasional Dibangun 2027, Harga di Bawah Rp 20 Juta [Detik Finance]
+  * Menhan Temui Menteri PU, Bahas Jalan Tol &amp; Nasional Jadi Landasan Jet Tempur [Detik Finance]
+  * MIND ID Pamerkan Integrasi Rantai Pasok Nikel-Timah di Malaysia [Detik Finance]
+  * Ada 40 Ribu Tiket Kapal Gratis Selama Libur Nataru [Detik Finance]
+  * bank bjb Jadi Juara Umum Festival Olahraga dan Seni Industri Jasa Keuangan [Detik Finance]
+  * 1.170 Tambang Emas Ilegal Ditutup di Bogor [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
