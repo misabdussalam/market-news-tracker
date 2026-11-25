@@ -1,0 +1,51 @@
+MARKET UPDATE - 25 November 2026, 18:34 WIB
+
+USD/IDR: 18303 (+0.67%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5241.59 (+0.49%)
+  vs Nikkei 225 (Jepang): +3.91% (selisih -3.42 poin %)
+  vs Hang Seng (Hong Kong): -0.73% (selisih +1.22 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): +0.10% (selisih +0.39 poin %)
+  Kesimpulan: IHSG unggul dari: Hang Seng (Hong Kong), Straits Times (Singapura); tertinggal dari: Nikkei 225 (Jepang), Shanghai Composite (China).
+
+TOP GAINERS (semua kategori):
+  + VIX - Index Volatilitas [Volatilitas]: +8.61%
+  + Nikkei 225 (Jepang) [Indeks Saham - Global]: +3.91%
+  + Minyak WTI [Komoditas]: +1.84%
+  + Copper Futures (Dr. Copper) [Komoditas]: +1.56%
+  + TLT - US Treasury 20Y+ ETF [Obligasi/Yield]: +1.31%
+
+TOP LOSERS (semua kategori):
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY turun -0.22% -> dolar melemah, biasanya dukung aset berisiko & komoditas (risk-on)
+  - Yield US10Y turun -1.31% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +8.61% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) naik +0.17% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +1.56% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +0.01% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas -0.17% & BTC -0.52% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +1.27 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.07% -> Normal (landai positif)
+
+Skor sentimen: +5
+Kesimpulan: RISK-ON kuat: mayoritas sinyal makro condong ke aset berisiko (saham, kripto, komoditas industri). Aset aman (emas, obligasi, USD) relatif kurang diminati saat ini.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (30 headline masuk):
+  * Airlangga Bidik 15 Ribu Insinyur untuk Bangun Industri Chip RI [CNN Indonesia - Ekonomi]
+  * OECD Minta RI Evaluasi Aturan TKDN untuk Industri Semikonduktor [CNN Indonesia - Ekonomi]
+  * Airlangga Bocorkan Tarif AS: Sawit RI 0 Persen, Produk Padat Karya 10% [CNN Indonesia - Ekonomi]
+  * Infrastruktur Daerah: Siapa yang Menikmati Pembangunan? [CNN Indonesia - Ekonomi]
+  * Antisipasi Nataru, Kemenhub Siapkan Pelabuhan Alternatif [CNN Indonesia - Ekonomi]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
