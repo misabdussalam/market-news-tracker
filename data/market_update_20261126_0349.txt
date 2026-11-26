@@ -1,0 +1,51 @@
+MARKET UPDATE - 26 November 2026, 03:49 WIB
+
+USD/IDR: 18390 (+0.97%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5237.27 (+0.76%)
+  vs Nikkei 225 (Jepang): +1.35% (selisih -0.59 poin %)
+  vs Hang Seng (Hong Kong): +1.90% (selisih -1.14 poin %)
+  vs Shanghai Composite (China): -0.03% (selisih +0.79 poin %)
+  vs Straits Times (Singapura): +1.04% (selisih -0.28 poin %)
+  Kesimpulan: IHSG unggul dari: Shanghai Composite (China); tertinggal dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Straits Times (Singapura).
+
+TOP GAINERS (semua kategori):
+  + Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: +9.45%
+  + VIX - Index Volatilitas [Volatilitas]: +7.32%
+  + Petrindo Jaya Kreasi (CUAN) [Saham - Prajogo Pangestu]: +5.20%
+  + Chandra Daya Investasi (CDIA) [Saham - Prajogo Pangestu]: +4.79%
+  + Minyak WTI [Komoditas]: +2.79%
+
+TOP LOSERS (semua kategori):
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -1.74%
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: -1.42%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: -1.37%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: -1.26%
+  - DAX (Jerman) [Indeks Saham - Global]: -1.26%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY naik +0.01% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y turun -1.14% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
+  - VIX naik +7.32% -> kecemasan pasar meningkat (risk-off)
+  - HYG (obligasi high yield) naik +0.12% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +2.38% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY turun -0.04% (Yen menguat) -> unwind carry trade, biasanya dibarengi aksi jual aset berisiko (risk-off)
+  - Emas +1.19% & BTC +1.67% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +1.01 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.07% -> Normal (landai positif)
+
+Skor sentimen: +1
+Kesimpulan: Risk-on ringan: sedikit lebih banyak sinyal mendukung aset berisiko, tapi belum dominan penuh.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (45 headline masuk):
+  * LRT Jabodebek Minta Maaf Imbas Kereta Mogok [Detik Finance]
+  * ASDP Cek Kapal Penyeberangan Danau Toba Jelang Nataru [Detik Finance]
+  * Pendapatan Naik 38,9%, Laba Bersih Bumi Resources Melonjak 405% [Detik Finance]
+  * Harga Emas Antam Naik Rp 2.000, Buyback Lompat Rp 20.000 [Detik Finance]
+  * 800 Mantri BRI Terjun ke Sekolah, Ribuan Siswa Dapat Edukasi Keuangan [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
