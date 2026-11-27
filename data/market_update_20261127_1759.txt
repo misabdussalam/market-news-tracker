@@ -1,0 +1,51 @@
+MARKET UPDATE - 27 November 2026, 17:59 WIB
+
+USD/IDR: 18375 (+0.72%)
+
+DETAIL IHSG vs KAWASAN ASIA:
+  IHSG: 5242.17 (+0.86%)
+  vs Nikkei 225 (Jepang): +0.86% (selisih +0.00 poin %)
+  vs Hang Seng (Hong Kong): +1.19% (selisih -0.33 poin %)
+  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
+  vs Straits Times (Singapura): +0.65% (selisih +0.21 poin %)
+  Kesimpulan: IHSG unggul dari: Straits Times (Singapura); tertinggal dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong), Shanghai Composite (China).
+
+TOP GAINERS (semua kategori):
+  + Copper Futures (Dr. Copper) [Komoditas]: +4.77%
+  + Emas (XAU/USD) [Komoditas]: +3.46%
+  + EEM - Emerging Markets ETF [Indeks Saham - Global]: +3.01%
+  + Nasdaq Composite (AS) [Indeks Saham - Global]: +2.14%
+  + US 10Y Treasury Yield [Obligasi/Yield]: +1.61%
+
+TOP LOSERS (semua kategori):
+  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
+  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
+  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
+  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
+  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
+
+FOLLOW THE MONEY - ANALISIS ARUS DANA:
+  - DXY naik +0.35% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - Yield US10Y naik +1.61% -> ekspektasi suku bunga/inflasi tinggi, tekan saham & emas (risk-off)
+  - VIX turun -7.76% -> kecemasan pasar mereda (risk-on)
+  - HYG (obligasi high yield) naik +0.10% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
+  - Tembaga (Dr. Copper) naik +4.77% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +0.19% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas naik (+3.46%) sementara BTC turun (-1.24%) -> pola klasik 'flight to safety' (risk-off)
+  - IHSG tertinggal -0.62 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+
+  [Konteks siklus] Yield Curve US10Y-3M: +0.08% -> Normal (landai positif)
+
+Skor sentimen: +0
+Kesimpulan: CAMPURAN/tidak searah: sinyal-sinyal di atas berimbang. Pasar kemungkinan dalam fase konsolidasi/wait-and-see.
+
+Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
+
+BERITA TERBARU (45 headline masuk):
+  * 354 Event Digelar dalam 2 Tahun, Perputaran Ekonomi Tembus Rp 45,9 T [Detik Finance]
+  * OECD Nilai Subsidi BBM Bebani APBN, Suahasil Buka Suara [Detik Finance]
+  * Prabowo Sebut Karhutla Buatan Manusia, Ratusan Korporasi Diperiksa [Detik Finance]
+  * AS Getok Tarif 18% ke RI, Suahasil Bicara Dampak ke Pertumbuhan [Detik Finance]
+  * Turis Asing Makin Senang Belanja di RI, Habiskan Rp 23,32 Juta/ Kunjungan [Detik Finance]
+
+(Ringkasan otomatis dari Yahoo Finance & RSS feed)
