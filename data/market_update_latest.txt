@@ -1,51 +1,51 @@
-MARKET UPDATE - 26 November 2026, 18:18 WIB
+MARKET UPDATE - 27 November 2026, 03:50 WIB
 
-USD/IDR: 18303 (+0.49%)
+USD/IDR: 18303 (+0.33%)
 
 DETAIL IHSG vs KAWASAN ASIA:
-  IHSG: 5197.61 (-0.84%)
-  vs Nikkei 225 (Jepang): -2.78% (selisih +1.94 poin %)
-  vs Hang Seng (Hong Kong): -1.14% (selisih +0.30 poin %)
-  vs Shanghai Composite (China): +nan% (selisih +nan poin %)
-  vs Straits Times (Singapura): -0.57% (selisih -0.27 poin %)
-  Kesimpulan: IHSG unggul dari: Nikkei 225 (Jepang), Hang Seng (Hong Kong); tertinggal dari: Shanghai Composite (China), Straits Times (Singapura).
+  IHSG: 5280.90 (+0.74%)
+  vs Nikkei 225 (Jepang): +1.67% (selisih -0.93 poin %)
+  vs Hang Seng (Hong Kong): +0.62% (selisih +0.12 poin %)
+  vs Shanghai Composite (China): +0.28% (selisih +0.46 poin %)
+  vs Straits Times (Singapura): +0.24% (selisih +0.50 poin %)
+  Kesimpulan: IHSG unggul dari: Hang Seng (Hong Kong), Shanghai Composite (China), Straits Times (Singapura); tertinggal dari: Nikkei 225 (Jepang).
 
 TOP GAINERS (semua kategori):
-  + DAX (Jerman) [Indeks Saham - Global]: +2.08%
-  + Copper Futures (Dr. Copper) [Komoditas]: +1.96%
-  + FTSE 100 (Inggris) [Indeks Saham - Global]: +1.75%
-  + Emas (XAU/USD) [Komoditas]: +1.67%
-  + Minyak WTI [Komoditas]: +1.34%
+  + Barito Pacific (BRPT) [Saham - Prajogo Pangestu]: +8.90%
+  + Copper Futures (Dr. Copper) [Komoditas]: +5.98%
+  + Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +5.37%
+  + Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +4.14%
+  + Chandra Daya Investasi (CDIA) [Saham - Prajogo Pangestu]: +4.00%
 
 TOP LOSERS (semua kategori):
-  - Rukun Raharja (RAJA) [Saham - Happy Hapsoro]: +nan%
-  - Raharja Energi Cepu (RATU) [Saham - Happy Hapsoro]: +nan%
-  - Bukit Uluwatu Villa (BUVA) [Saham - Happy Hapsoro]: +nan%
-  - Sanurhasta Mitra (MINA) [Saham - Happy Hapsoro]: +nan%
-  - Segi Investindo (SINI) [Saham - Happy Hapsoro]: +nan%
+  - VIX - Index Volatilitas [Volatilitas]: -5.27%
+  - Barito Renewables Energy (BREN) [Saham - Prajogo Pangestu]: -5.26%
+  - Minyak Brent [Komoditas]: -2.51%
+  - US 10Y Treasury Yield [Obligasi/Yield]: -1.14%
+  - US 30Y Treasury Yield [Obligasi/Yield]: -1.08%
 
 FOLLOW THE MONEY - ANALISIS ARUS DANA:
-  - DXY naik +0.11% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
+  - DXY naik +0.01% -> dolar menguat, biasanya tekan aset berisiko & komoditas (risk-off)
   - Yield US10Y turun -1.14% -> ekspektasi suku bunga melunak, biasanya dukung saham & emas (risk-on)
   - VIX turun -5.27% -> kecemasan pasar mereda (risk-on)
   - HYG (obligasi high yield) naik +0.12% -> spread kredit menyempit, nafsu risiko investor meningkat (risk-on)
-  - Tembaga (Dr. Copper) naik +1.96% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
-  - USD/JPY naik +0.02% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
-  - Emas +1.67% & BTC +0.08% bergerak searah -> sinyal campuran, tidak dominan satu arah
-  - IHSG tertinggal -0.59 poin % dari S&P 500 -> dana relatif lebih memilih pasar AS/DM
+  - Tembaga (Dr. Copper) naik +5.98% -> ekspektasi permintaan industri/pertumbuhan global menguat (risk-on)
+  - USD/JPY naik +0.01% (Yen melemah) -> carry trade aktif, nafsu risiko tinggi (risk-on)
+  - Emas +3.41% & BTC +1.72% bergerak searah -> sinyal campuran, tidak dominan satu arah
+  - IHSG unggul +0.99 poin % dari S&P 500 -> indikasi rotasi dana ke pasar Indonesia/EM
 
   [Konteks siklus] Yield Curve US10Y-3M: +0.07% -> Normal (landai positif)
 
-Skor sentimen: +3
+Skor sentimen: +5
 Kesimpulan: RISK-ON kuat: mayoritas sinyal makro condong ke aset berisiko (saham, kripto, komoditas industri). Aset aman (emas, obligasi, USD) relatif kurang diminati saat ini.
 
 Catatan: ini sintesis rule-based dari data harga historis, BUKAN rekomendasi investasi atau nasihat keuangan berlisensi. Selalu cross-check dengan analisis lain dan sesuaikan profil risiko Anda.
 
-BERITA TERBARU (30 headline masuk):
-  * RI Dapat Pinjaman EIB Rp5,5 T untuk Tingkatkan Fasilitas Kesehatan [CNN Indonesia - Ekonomi]
-  * Hashim Bantah Tambang Ujung Kulon: Saya Kaget Ada yang Ingin Menambang [CNN Indonesia - Ekonomi]
-  * Hashim Bicara Soal Earth Fund Jeff Bezos Terkait Badak Ujung Kulon [CNN Indonesia - Ekonomi]
-  * Hadapi Tudingan Global, PASPI Dorong Sawit Berbasis Data dan Riset [CNN Indonesia - Ekonomi]
-  * PNM Perluas Mekaar Bunga 8% hingga Denpasar, Jangkau 1,2 Juta Nasabah [CNN Indonesia - Ekonomi]
+BERITA TERBARU (45 headline masuk):
+  * Catat! Ini Kanal Resmi Beli e-Meterai buat Seleksi CPNS 2026 [Detik Finance]
+  * Ekspor 4 Industri dari JIIPE Gresik Rp 16,48 T, Ini Rinciannya [Detik Finance]
+  * Jembatan Megah di Tasikmalaya, Akses Desa dan Ekonomi Kian Terbuka [Detik Finance]
+  * DJP Kejar Setoran, Minta Perusahaan Bayar Pajak 2027 Lebih Cepat [Detik Finance]
+  * Harga Emas Antam Stagnan, Buyback Naik Tipis [Detik Finance]
 
 (Ringkasan otomatis dari Yahoo Finance & RSS feed)
